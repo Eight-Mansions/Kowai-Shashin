@@ -1,0 +1,48 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001F8)
+//《見ている男》
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $000001F4)
+//やってみよう。
+<$00>
+
+// Ptr: 00000038
+#WRITE(PTR, $000001F0)
+//ほかならぬ彼女の頼みだ。
+<$00>
+
+// Ptr: 00000054
+#WRITE(PTR, $000001EC)
+//生霊を除くのは初めてだけど
+<$00>
+
+// Ptr: 00000070
+#WRITE(PTR, $000001E8)
+//おそらく、彼女に対し一方的な　　想いを抱き、執着している男の　　生霊だ。
+<$00>
+
+// Ptr: 000000BC
+#WRITE(PTR, $000001E4)
+//死者ではない。
+<$00>
+
+// Ptr: 000000CC
+#WRITE(PTR, $000001E0)
+//ここに映っているものは、
+<$00>
+
+// Ptr: 000000E8
+#WRITE(PTR, $000001DC)
+//わたしは、ふしぎな感触を覚えた。
+<$00>
+

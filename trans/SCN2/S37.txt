@@ -1,0 +1,48 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 20, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 0000001C
+#WRITE(PTR, $000001E0)
+//わたしは・・・
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $000001DC)
+//除霊を続けなければ、
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $000001D8)
+//常にわたしをさいなむように　　　なっていた。
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $000001D4)
+//以前に感じた不可解な飢餓感が、
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $000001D0)
+//わたしは除霊をこなし続ける。
+<$00>
+
+// Ptr: 000000B4
+#WRITE(PTR, $000001CC)
+//答えがでないまま、
+<$00>
+
+// Ptr: 000000C8
+#WRITE(PTR, $000001C8)
+//どうしたら良いのだろう。
+<$00>
+
+// Ptr: 000000E4
+#WRITE(PTR, $000001C4)
+//わたしはこの力を、
+<$00>
+

@@ -1,0 +1,109 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000002F4)
+//《いやなにおい》
+(A Terrible Smell)
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $000002F0)
+//さすがにヤバイと思ったんです。』
+problem any longer."
+<$00>
+
+// Ptr: 00000050
+#WRITE(PTR, $000002EC)
+//でも、この写真を見たとき、
+I couldn't just ignore this
+<$00>
+
+// Ptr: 0000006C
+#WRITE(PTR, $000002E8)
+//オレは納得してました。
+But, after seeing this photo,
+<$00>
+
+// Ptr: 00000084
+#WRITE(PTR, $000002E4)
+//しかたないよなって、
+a piece of crap.
+<$00>
+
+// Ptr: 0000009C
+#WRITE(PTR, $000002E0)
+//においも、ちょっとぐらいは
+I expected it to be a bit of
+<$00>
+
+// Ptr: 000000B8
+#WRITE(PTR, $000002DC)
+//でも、まあ中古だし、安かったし、
+I mean, the car was cheap, so
+<$00>
+
+// Ptr: 000000DC
+#WRITE(PTR, $000002D8)
+//やな振動でしたね。
+was trying to drag the car    away.
+<$00>
+
+// Ptr: 000000F0
+#WRITE(PTR, $000002D4)
+//なんか引きずってるみたいな
+it almost felt like something
+<$00>
+
+// Ptr: 0000010C
+#WRITE(PTR, $000002D0)
+//ぶるぶる、ぶるぶる、
+violently. It wasn't normal;
+<$00>
+
+// Ptr: 00000124
+#WRITE(PTR, $000002CC)
+//急にゆれ出すことがありました。
+the car would just shake
+<$00>
+
+// Ptr: 00000144
+#WRITE(PTR, $000002C8)
+//それ以外にもこの車は、走ってると
+Not only that, but sometimes
+<$00>
+
+// Ptr: 00000168
+#WRITE(PTR, $000002C4)
+//ないのって。
+<$00>
+
+// Ptr: 00000178
+#WRITE(PTR, $000002C0)
+//くせえ、なんか腐ってるんじゃ
+awful, rotting smell.
+<$00>
+
+// Ptr: 00000198
+#WRITE(PTR, $000002BC)
+//乗っけた友達もみんな、この車は
+lift always mentioned that
+<$00>
+
+// Ptr: 000001B8
+#WRITE(PTR, $000002B8)
+//ヘンなにおいがしてました。
+that car. Everyone I gave a
+<$00>
+
+// Ptr: 000001D4
+#WRITE(PTR, $000002B4)
+//『この車からは、確かに
+"A horrible smell drifted from
+<$00>
+

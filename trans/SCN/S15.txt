@@ -1,0 +1,116 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $00000354)
+//て、なによりの糧なのです。
+and flesh left behind.
+<$00>
+
+// Ptr: 00000034
+#WRITE(PTR, $00000350)
+//そんなものが、このものたちにとっ
+That and, of course, any blood
+<$00>
+
+// Ptr: 00000058
+#WRITE(PTR, $0000034C)
+//そして、わずかばかりの肉片や血、
+sadness and fear around them.
+<$00>
+
+// Ptr: 0000007C
+#WRITE(PTR, $00000348)
+//満ちる悲しみや恐怖の感情、
+occurs, they feed on the
+<$00>
+
+// Ptr: 00000098
+#WRITE(PTR, $00000344)
+//不幸な事故がおきたとき、あたりに
+When an unfortunate accident
+<$00>
+
+// Ptr: 000000BC
+#WRITE(PTR, $00000340)
+//ありません。
+food.
+<$00>
+
+// Ptr: 000000CC
+#WRITE(PTR, $0000033C)
+//ているのは、普通の食べ物では
+they're not after regular
+<$00>
+
+// Ptr: 000000EC
+#WRITE(PTR, $00000338)
+//もちろん、このものたちが欲しがっ
+It goes without saying, but
+<$00>
+
+// Ptr: 00000110
+#WRITE(PTR, $00000334)
+//強い期待のせいです。
+their desire to feed.
+<$00>
+
+// Ptr: 00000128
+#WRITE(PTR, $00000330)
+//光っていたのは、飢えと糧に対する
+saw are from their hunger and
+<$00>
+
+// Ptr: 0000014C
+#WRITE(PTR, $0000032C)
+//あなたがたを見る、この目が異様に
+The strange glowing eyes you
+<$00>
+
+// Ptr: 00000170
+#WRITE(PTR, $00000328)
+//普段からあなたを見ています。
+always been watching you.
+<$00>
+
+// Ptr: 00000190
+#WRITE(PTR, $00000324)
+//おっしゃるとおり、このものたちは
+And yes, chances are they've
+<$00>
+
+// Ptr: 000001B4
+#WRITE(PTR, $00000320)
+//事故の手助けをするのです。
+accidents that wouldn't        normally happen.
+<$00>
+
+// Ptr: 000001D0
+#WRITE(PTR, $0000031C)
+//そして、普通ではおきないような
+Sometimes they'll help cause
+<$00>
+
+// Ptr: 000001F0
+#WRITE(PTR, $00000318)
+//ある場所に、よくひそんでいます。
+places, like these ones were.
+<$00>
+
+// Ptr: 00000214
+#WRITE(PTR, $00000314)
+//こうした霊は、ちょっとした危険の
+Ghosts often lurk in dangerous
+<$00>
+
+// Ptr: 00000238
+#WRITE(PTR, $0000030C)
+//【緋織からの除霊結果報告】
+(Hiori's Exorcism Report)
+<$00>
+

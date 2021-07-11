@@ -1,0 +1,115 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000002FC)
+//《招くもの》
+(Beckon)
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $000002F8)
+//振りかえってはいけない。』
+look back."
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $000002F4)
+//決して後を、
+never
+<$00>
+
+// Ptr: 00000054
+#WRITE(PTR, $000002F0)
+//夜中に鳥居をくぐるときは、
+night, you must
+<$00>
+
+// Ptr: 00000070
+#WRITE(PTR, $000002EC)
+//あったんです。
+gate in the middle of the
+<$00>
+
+// Ptr: 00000080
+#WRITE(PTR, $000002E8)
+//ここには、前からこんな言い伝えが
+If you pass under a torii
+<$00>
+
+// Ptr: 000000A4
+#WRITE(PTR, $000002E4)
+//そういえば・・・
+There's a saying here...
+<$00>
+
+// Ptr: 000000B8
+#WRITE(PTR, $000002E0)
+//だけは・・・
+photo...
+<$00>
+
+// Ptr: 000000C8
+#WRITE(PTR, $000002DC)
+//でも、帰り際に撮った最後の１枚
+normal. But, the very last
+<$00>
+
+// Ptr: 000000E8
+#WRITE(PTR, $000002D8)
+//他の写真は普通でした。
+Most of the photos were
+<$00>
+
+// Ptr: 00000100
+#WRITE(PTR, $000002D4)
+//きもだめしのルールでした。
+<$00>
+
+// Ptr: 0000011C
+#WRITE(PTR, $000002D0)
+//僕らが決めた、
+return with a photo for proof.
+<$00>
+
+// Ptr: 0000012C
+#WRITE(PTR, $000002CC)
+//境内の写真を撮ってくるのが、
+shrine late at night and
+<$00>
+
+// Ptr: 0000014C
+#WRITE(PTR, $000002C8)
+//夜中にそこに行き、証拠として
+enter the deepest part of the
+<$00>
+
+// Ptr: 0000016C
+#WRITE(PTR, $000002C4)
+//さびれてしまった神社があって、
+middle of our town. We had to
+<$00>
+
+// Ptr: 0000018C
+#WRITE(PTR, $000002C0)
+//僕らが住んでいる町には、すっかり
+A desolate shrine sat in the
+<$00>
+
+// Ptr: 000001B0
+#WRITE(PTR, $000002BC)
+//することになりました。
+of courage.
+<$00>
+
+// Ptr: 000001C8
+#WRITE(PTR, $000002B8)
+//『その夏、僕らは、きもだめしを
+"That summer, we held a test
+<$00>
+

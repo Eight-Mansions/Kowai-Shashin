@@ -1,0 +1,283 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 32, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000028
+#WRITE(PTR, $000007C0)
+//くれぐれも気をつけて。
+your guard down.
+<$00>
+
+// Ptr: 00000040
+#WRITE(PTR, $000007BC)
+//持つ者にとっても危険な技だ。
+very dangerous. Never let
+<$00>
+
+// Ptr: 00000060
+#WRITE(PTR, $000007B8)
+//除霊は、われわれのような力を
+The purification process is
+<$00>
+
+// Ptr: 00000080
+#WRITE(PTR, $000007B0)
+//　　ことになる。
+  fully exorcised.
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $000007AC)
+//　　その写真は完全に除霊された
+  reacting, the photo is
+<$00>
+
+// Ptr: 000000B4
+#WRITE(PTR, $000007A8)
+//一．霊波動鏡の反応がなくなったら
+- When the Link stops
+<$00>
+
+// Ptr: 000000D8
+#WRITE(PTR, $000007A4)
+//　　吸収されるだろう。
+  missing life force.
+<$00>
+
+// Ptr: 000000F0
+#WRITE(PTR, $000007A0)
+//　　霊の力は、おまえの命として
+  power will restore your
+<$00>
+
+// Ptr: 00000110
+#WRITE(PTR, $0000079C)
+//　　勝ちだ。
+  it is your victory. Their 
+<$00>
+
+// Ptr: 00000120
+#WRITE(PTR, $00000798)
+//一．霊が消え去れば、おまえの
+- Once the ghost disappears,
+<$00>
+
+// Ptr: 00000140
+#WRITE(PTR, $00000794)
+//　　霊の力を多くうばえる。
+  the strongest effect.
+<$00>
+
+// Ptr: 0000015C
+#WRITE(PTR, $00000790)
+//　　九つの印を完成させれば、
+  There are 9 possible seals.    Complete all 9 for
+<$00>
+
+// Ptr: 0000017C
+#WRITE(PTR, $0000078C)
+//　　霊の動きが封じられている間に
+  while the ghost is trapped.
+<$00>
+
+// Ptr: 000001A0
+#WRITE(PTR, $00000788)
+//一．印は素早く正確に。
+- Complete the seals quickly
+<$00>
+
+// Ptr: 000001B8
+#WRITE(PTR, $00000784)
+//　　印を切れ。
+  taught you.
+<$00>
+
+// Ptr: 000001C8
+#WRITE(PTR, $00000780)
+//　　動けないでいる間に教えた通り
+  seal them away just as I've
+<$00>
+
+// Ptr: 000001EC
+#WRITE(PTR, $0000077C)
+//一．封撃を打たれた霊が力を失い、
+- Once stunned, you can
+<$00>
+
+// Ptr: 00000210
+#WRITE(PTR, $00000778)
+//　　攻撃を防ぐことができる。
+  and stun them.
+<$00>
+
+// Ptr: 00000230
+#WRITE(PTR, $00000774)
+//　　ときに封撃を打てば、霊の
+  ghost to block their attacks
+<$00>
+
+// Ptr: 00000250
+#WRITE(PTR, $00000770)
+//一．霊がおまえに最も近づいている
+- Aim in the direction of the
+<$00>
+
+// Ptr: 00000274
+#JMP($00000274)
+#WRITE(PTR, $0000076C)
+//　　（上
+(Up 
+<$01><$02>
+//　右
+, Right 
+<$01><$03>
+//　下
+, Down 
+<$01><$04>
+//　左
+,Left 
+<$01><$01>
+//）
+)
+<$00>
+#JMP(-1)
+
+// Ptr: 00000294
+#WRITE(PTR, $00000768)
+//　　打て。
+<$00>
+
+// Ptr: 000002A0
+#WRITE(PTR, $00000764)
+//一．霊が現れる場所を読み、封撃を
+- Defending with seal attacks
+<$00>
+
+// Ptr: 000002C4
+#WRITE(PTR, $00000760)
+//　　霊は正体をあらわすだろう。
+<$00>
+  lurking spirit.
+
+// Ptr: 000002E4
+#WRITE(PTR, $0000075C)
+//　　おまえが居場所を見つけたら、
+  red when it's close to the
+<$00>
+
+// Ptr: 00000308
+#WRITE(PTR, $00000758)
+//　　ではリングの回転が速くなる。
+  will spin faster and turn
+<$00>
+
+// Ptr: 0000032C
+#WRITE(PTR, $00000754)
+//一．霊査中、霊がひそんでいる場所
+- In Spirit Mode, the Link
+<$00>
+
+// Ptr: 00000350
+#WRITE(PTR, $00000750)
+//　　使いどころは慎重に。
+  sure to use it sparingly.
+<$00>
+
+// Ptr: 0000036C
+#WRITE(PTR, $0000074C)
+//　　大きく消耗する。
+  life force quickly, so make
+<$00>
+
+// Ptr: 00000384
+#WRITE(PTR, $00000748)
+//　　霊査のあいだおまえは生命力を
+  Spirit Mode consumes your
+<$00>
+
+// Ptr: 000003A8
+#JMP($000003A8)
+#WRITE(PTR, $00000744)
+//　　（
+<$01><$04>
+//で霊査開始／終了）
+ - Toggle Spirit Mode
+<$00>
+#JMP(-1)
+
+// Ptr: 000003C4
+#WRITE(PTR, $00000740)
+//　　集中し、霊査に入れ。
+  your spirit searching.
+<$00>
+
+// Ptr: 000003E0
+#WRITE(PTR, $0000073C)
+//一．異様な個所を見つけたら精神を
+-  When you find it, start
+<$00>
+
+// Ptr: 00000404
+#WRITE(PTR, $00000738)
+//　　そうした個所を、まず探せ。
+  Link and find that first.
+<$00>
+
+// Ptr: 00000424
+#WRITE(PTR, $00000734)
+//　　リングを使って写真の中の
+  possessed photo. Use the
+<$00>
+
+// Ptr: 00000444
+#WRITE(PTR, $00000730)
+//　　必ず異様なものが映っている。
+  something strange in the
+<$00>
+
+// Ptr: 00000468
+#WRITE(PTR, $0000072C)
+//一．霊が憑依している写真には、
+- There will always be
+<$00>
+
+// Ptr: 00000488
+#WRITE(PTR, $00000728)
+//　　できない。
+  not be visible at first.
+<$00>
+
+// Ptr: 00000498
+#WRITE(PTR, $00000724)
+//一．霊の本体は、目で見ることが
+- The ghost's main body will
+<$00>
+
+// Ptr: 000004B8
+#WRITE(PTR, $0000071C)
+//【緋織の父親が残した除霊心得】
+"Dad's left-behind notes"
+<$00>
+
+// Ptr: 000004D8
+#WRITE(PTR, $00000718)
+//除霊の心得を確認
+Review exorcism notes
+<$00>
+
+// Ptr: 000004EC
+#WRITE(PTR, $00000714)
+//すぐに除霊を行う
+Start exorcism
+<$00>
+
+// Ptr: 00000500
+#WRITE(PTR, $0000070C)
+//【除霊依頼の手紙が届いている】
+"Exorcism Request Received"
+<$00>
+

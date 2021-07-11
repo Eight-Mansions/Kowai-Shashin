@@ -1,0 +1,46 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001F0)
+#WRITE(PTR, $000001F4)
+#WRITE(PTR, $000001F8)
+<$02><$00>
+
+// Ptr: 0000003C
+#WRITE(PTR, $000001E8)
+#WRITE(PTR, $000001EC)
+<$02><$00>
+
+// Ptr: 00000060
+#WRITE(PTR, $000001E4)
+<$02><$00>
+
+// Ptr: 00000088
+#WRITE(PTR, $000001E0)
+<$02><$00>
+
+// Ptr: 000000AC
+#WRITE(PTR, $000001DC)
+<$02><$00>
+
+// Ptr: 000000D0
+#WRITE(PTR, $000001D8)
+//わたしは意識を集中した。
+<$00>
+
+// Ptr: 000000EC
+#WRITE(PTR, $000001D4)
+//これでお別れなら、最後の声を　　聞きたい！
+<$00>
+
+// Ptr: 00000118
+#WRITE(PTR, $000001D0)
+//優二くん！
+<$00>
+

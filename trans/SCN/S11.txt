@@ -1,0 +1,92 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000002A4)
+//って言ってました。』
+'Ahh, Ochiai-san is still      there, huh?' she said."
+<$00>
+
+// Ptr: 00000030
+#WRITE(PTR, $000002A0)
+//ああ、おちあいさん、まだ居たんだ
+to this school.
+<$00>
+
+// Ptr: 00000054
+#WRITE(PTR, $0000029C)
+//卒業生なんですが、写真を見せたら
+picture to my sister, who went
+<$00>
+
+// Ptr: 00000078
+#WRITE(PTR, $00000298)
+//実は、わたしの姉もこの学校の
+Actually, I showed this
+<$00>
+
+// Ptr: 00000098
+#WRITE(PTR, $00000294)
+//切断されていたそうです。
+sliced off.
+<$00>
+
+// Ptr: 000000B4
+#WRITE(PTR, $00000290)
+//両足がももからすっぱり
+from the thighs down were
+<$00>
+
+// Ptr: 000000CC
+#WRITE(PTR, $0000028C)
+//うわさですが、遺体は
+Rumor has it that her legs
+<$00>
+
+// Ptr: 000000E4
+#WRITE(PTR, $00000288)
+//しまったんだそうです。
+accident or suicide.
+<$00>
+
+// Ptr: 000000FC
+#WRITE(PTR, $00000284)
+//電車にひかれて亡くなって
+No one knows whether it was an
+<$00>
+
+// Ptr: 00000118
+#WRITE(PTR, $00000280)
+//自分から飛び込んだかして
+train tracks and was killed.
+<$00>
+
+// Ptr: 00000134
+#WRITE(PTR, $0000027C)
+//卒業式の直前に、線路に落ちたか
+graduation, she fell onto the
+<$00>
+
+// Ptr: 00000154
+#WRITE(PTR, $00000278)
+//原因はよくわからないんですけど
+student here. Right before
+<$00>
+
+// Ptr: 00000174
+#WRITE(PTR, $00000274)
+//『彼女は、むかしこの学校の生徒で
+"That girl used to be a
+<$00>
+
+// Ptr: 00000198
+#WRITE(PTR, $0000026C)
+//まだ、手紙には続きがある・・・
+There was still more to the    letter...
+<$00>
+

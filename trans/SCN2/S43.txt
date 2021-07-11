@@ -1,0 +1,43 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $00000174)
+//強くなっていた。
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $00000170)
+//わたしの飢えと比例するように
+<$00>
+
+// Ptr: 0000004C
+#WRITE(PTR, $0000016C)
+//しかし、わたしの力は
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $00000168)
+//なかっただろう。
+<$00>
+
+// Ptr: 00000078
+#WRITE(PTR, $00000164)
+//昔のわたしならば、倒せる相手では
+<$00>
+
+// Ptr: 0000009C
+#WRITE(PTR, $00000160)
+//霊の集合体。
+<$00>
+
+// Ptr: 000000AC
+#WRITE(PTR, $0000015C)
+//時空をねじまげるほどの力を持った
+<$00>
+

@@ -1,0 +1,68 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001E0)
+//ことは、思わぬ災いとなりますよ。
+that can be dangerous, okay?
+<$00>
+
+// Ptr: 0000003C
+#WRITE(PTR, $000001DC)
+//いたずらにこうした場所を荒らす
+Fooling around in a place like
+<$00>
+
+// Ptr: 0000005C
+#WRITE(PTR, $000001D8)
+//なりやすいのです。
+take it over.
+<$00>
+
+// Ptr: 00000070
+#WRITE(PTR, $000001D4)
+//こうした邪悪な気の住みかに
+common for evil spirits to
+<$00>
+
+// Ptr: 0000008C
+#WRITE(PTR, $000001D0)
+//打ち捨てられ、力を失ったとき、
+shrine becomes abandoned, it's
+<$00>
+
+// Ptr: 000000AC
+#WRITE(PTR, $000001CC)
+//本来神聖であるべき場所ほど
+When a sacred place like that
+<$00>
+
+// Ptr: 000000C8
+#WRITE(PTR, $000001C8)
+//いました。
+into another world.
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $000001C4)
+//あなた方を異界へ引き込もうとして
+torii gate tried to pull you
+<$00>
+
+// Ptr: 000000F8
+#WRITE(PTR, $000001C0)
+//鳥居から逆さづりになった人物が、
+The figure hanging from the
+<$00>
+
+// Ptr: 0000011C
+#WRITE(PTR, $000001B8)
+//【緋織からの除霊結果報告】
+(Hiori's Exorcism Report)
+<$00>
+

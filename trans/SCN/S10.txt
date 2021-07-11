@@ -1,0 +1,127 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000003AC)
+//(Ochiai-san)
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $000003A8)
+//恐いなあ・・・とは思います。』
+happen..."
+<$00>
+
+// Ptr: 0000004C
+#WRITE(PTR, $000003A4)
+//彼女とばったり会ったら
+something *terrible* might
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $000003A0)
+//例えば、トイレとかで
+night, like in the bathroom,
+<$00>
+
+// Ptr: 0000007C
+#WRITE(PTR, $0000039C)
+//夕方とか、ひとのいないとき
+you run into her alone at
+<$00>
+
+// Ptr: 00000098
+#WRITE(PTR, $00000398)
+//特にわるいことはしないのですが
+persay, but rumor has it if
+<$00>
+
+// Ptr: 000000B8
+#WRITE(PTR, $00000394)
+//彼女は、いつもそこにいるだけで
+She hasn't dont anything bad
+<$00>
+
+// Ptr: 000000D8
+#WRITE(PTR, $00000390)
+//いろんなウワサがあります。
+glides. There are a lot of     rumors like this.
+<$00>
+
+// Ptr: 000000F4
+#WRITE(PTR, $0000038C)
+//す～っと動くんだよ、とか、
+move and she just gently
+<$00>
+
+// Ptr: 00000110
+#WRITE(PTR, $00000388)
+//足を動かさないで、そのまま平行に
+almost like her legs don't
+<$00>
+
+// Ptr: 00000134
+#WRITE(PTR, $00000384)
+//妙にぎこちないけど速いとか、
+is somehow still fast. It's
+<$00>
+
+// Ptr: 00000154
+#WRITE(PTR, $00000380)
+//歩き方については、
+strange, clumsy fashion, but
+<$00>
+
+// Ptr: 00000168
+#WRITE(PTR, $0000037C)
+//腰くらいまでしかありません。
+our waists. She walks in a
+<$00>
+
+// Ptr: 00000188
+#WRITE(PTR, $00000378)
+//彼女の背は、わたしたちの
+She only goes up to about
+<$00>
+
+// Ptr: 000001A4
+#WRITE(PTR, $00000374)
+//みんなによく知られています。
+to know this girl.
+<$00>
+
+// Ptr: 000001C4
+#WRITE(PTR, $00000370)
+//うちの学校では、この子のことは、
+Everyone at my school seems
+<$00>
+
+// Ptr: 000001E8
+#WRITE(PTR, $0000036C)
+//旧くて、しかも冬服なんですよね。
+and the winter one at that.
+<$00>
+
+// Ptr: 0000020C
+#WRITE(PTR, $00000368)
+//だから、この子が着ている服は
+who still wears the old one,
+<$00>
+
+// Ptr: 0000022C
+#WRITE(PTR, $00000364)
+//制服が変わったんです。
+3 years ago. But, there's a
+<$00>
+
+// Ptr: 00000244
+#WRITE(PTR, $00000360)
+//『わたしたちの学校では３年前から
+"Our school uniforms changed
+<$00>
+

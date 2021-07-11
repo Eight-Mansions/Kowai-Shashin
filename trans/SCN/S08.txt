@@ -1,0 +1,44 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $0000014C)
+//次は、どんな手紙が届くのだろう。
+I'll see next?
+<$00>
+
+// Ptr: 0000003C
+#WRITE(PTR, $00000148)
+//たったひとつの手段。
+I wonder what kind of letters
+<$00>
+
+// Ptr: 00000054
+#WRITE(PTR, $00000144)
+//ひとりぼっちのわたしが　　　　　生きて行くための、
+how to get by.
+<$00>
+
+// Ptr: 00000088
+#WRITE(PTR, $00000140)
+//今は身よりもなく、
+is the only way I know
+<$00>
+
+// Ptr: 00000114
+#WRITE(PTR, $0000013C)
+//それが
+relatives, fighting spirits
+<$00>
+
+// Ptr: 0000009C
+#WRITE(PTR, $00000138)
+//霊と闘うこと、
+Since I have no living
+<$00>
+

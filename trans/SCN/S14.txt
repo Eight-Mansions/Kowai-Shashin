@@ -1,0 +1,80 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $00000230)
+//《地下鉄の顔》
+(Faces in the Subway)
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $0000022C)
+//じっと見ているんでしょうか？』
+always been watching us...?"
+<$00>
+
+// Ptr: 00000048
+#WRITE(PTR, $00000228)
+//こうやって僕たちのことを
+yet dead eyes. Have they
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $00000224)
+//こいつらは普段から、
+something like those glowing,
+<$00>
+
+// Ptr: 0000007C
+#WRITE(PTR, $00000220)
+//よく利用するんですが、
+but I've never once seen
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $0000021C)
+//この地下鉄は、
+I frequently use this station,
+<$00>
+
+// Ptr: 000000A4
+#WRITE(PTR, $00000218)
+//これを見てゾッとしました。
+tracks. But I froze when I sawthose things looking at me...
+<$00>
+
+// Ptr: 000000C0
+#WRITE(PTR, $00000214)
+//落ちそうになったりしていたので、
+and nearly fell onto the
+<$00>
+
+// Ptr: 000000E4
+#WRITE(PTR, $00000210)
+//ふざけて線路に
+and I were drunk and lively
+<$00>
+
+// Ptr: 000000F4
+#WRITE(PTR, $0000020C)
+//同僚も僕も、このときはご機嫌で、
+the last train. My coworker
+<$00>
+
+// Ptr: 00000118
+#WRITE(PTR, $00000208)
+//ホームで撮ったものです。
+from a night of drinking on
+<$00>
+
+// Ptr: 00000134
+#WRITE(PTR, $00000204)
+//『これは飲み会の帰り、終電直前の
+"I took this when coming home
+<$00>
+

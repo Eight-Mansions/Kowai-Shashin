@@ -1,0 +1,68 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001FC)
+//遊びを、続けていたようです。
+dimension they were dragged    into.
+<$00>
+
+// Ptr: 00000038
+#WRITE(PTR, $000001F8)
+//霊となり、永遠のかくれんぼう
+for eternity in whatever
+<$00>
+
+// Ptr: 00000058
+#WRITE(PTR, $000001F4)
+//この世ではない次元に引き込まれて
+probably playing hide-and-seek
+<$00>
+
+// Ptr: 0000007C
+#WRITE(PTR, $000001F0)
+//遊び相手に気に入られたその子は、
+lurked there. Now, they're
+<$00>
+
+// Ptr: 000000A0
+#WRITE(PTR, $000001EC)
+//“何か”といっしょに。
+"friend" in whatever spirit
+<$00>
+
+// Ptr: 000000B8
+#WRITE(PTR, $000001E8)
+//以前からこの駐車場にいた
+The child must have found a
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $000001E4)
+//いたようですね。
+played in the parking lot.
+<$00>
+
+// Ptr: 000000E8
+#WRITE(PTR, $000001E0)
+//パーラーを抜け出し、ここで遊んで
+slipped out of the parlor and
+<$00>
+
+// Ptr: 0000010C
+#WRITE(PTR, $000001DC)
+//行方不明になったというその子は、
+It seems like the child
+<$00>
+
+// Ptr: 00000130
+#WRITE(PTR, $000001D4)
+//【緋織からの除霊結果報告】
+(Hiori's Exorcism Report)
+<$00>
+

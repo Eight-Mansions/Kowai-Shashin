@@ -1,0 +1,142 @@
+system_area {
+  file "working.sys"
+}
+
+volume {
+  system_id [PLAYSTATION]
+  volume_id []
+  volume_set_id []
+  publisher_id []
+  preparer_id []
+  application_id [PLAYSTATION]
+  copyright_file_id []
+  abstract_file_id []
+  bibliographic_file_id []
+  creation_date 2002-06-05 17:00:00.00 0
+  modification_date 0000-00-00 00:00:00.00 0
+  expiration_date 0000-00-00 00:00:00.00 0
+  effective_date 0000-00-00 00:00:00.00 0
+}
+
+dir {
+  file SLPS_034.54
+  file SYSTEM.CNF
+  dir DATA {
+    file ACTION.DAT
+    file ALBUM.DAT
+    file ALBUM2.DAT
+    file COMMON.DAT
+    file ENDING.DAT
+    file LOGO.DAT
+    file SINARIO.DAT
+    file TITLE.DAT
+    dir SCN {
+      file S00.DAT
+      file S01.DAT
+      file S02.DAT
+      file S03.DAT
+      file S04.DAT
+      file S05.DAT
+      file S06.DAT
+      file S07.DAT
+      file S08.DAT
+      file S09.DAT
+      file S10.DAT
+      file S11.DAT
+      file S12.DAT
+      file S13.DAT
+      file S14.DAT
+      file S15.DAT
+      file S16.DAT
+      file S17.DAT
+      file S18.DAT
+      file S19.DAT
+      file S20.DAT
+      file S21.DAT
+      file S22.DAT
+      file S23.DAT
+      file S24.DAT
+      file S25.DAT
+      file S26.DAT
+      file S27.DAT
+    }
+    dir SCN2 {
+      file S28.DAT
+      file S29.DAT
+      file S30.DAT
+      file S31.DAT
+      file S32.DAT
+      file S33.DAT
+      file S34.DAT
+      file S35.DAT
+      file S36.DAT
+      file S37.DAT
+      file S38.DAT
+      file S39.DAT
+      file S40.DAT
+      file S41.DAT
+      file S42.DAT
+      file S43.DAT
+      file S44.DAT
+      file S45.DAT
+      file S46.DAT
+      file S47.DAT
+      file S48.DAT
+      file S49.DAT
+      file S50.DAT
+      file S51.DAT
+      file S52.DAT
+      file S53.DAT
+      file S54.DAT
+    }
+    dir STG {
+      file STG01.DAT
+      file STG02.DAT
+      file STG03.DAT
+      file STG04.DAT
+      file STG05.DAT
+      file STG06.DAT
+      file STG07.DAT
+      file STG08.DAT
+      file STG09.DAT
+      file STG10.DAT
+      file STG11.DAT
+      file STG12.DAT
+      file STG13.DAT
+      file STG14.DAT
+      file STG15.DAT
+      file STG16.DAT
+      file STG17.DAT
+      file STG18.DAT
+      file STG19.DAT
+      file STG20.DAT
+    }
+  }
+  dir SND {
+    file BGM.VB
+    file SE.VB
+    file SE2_SEQ.DAT
+    file SE3_SEQ.DAT
+    file SE_02.VB
+    file SE_03.VB
+  }
+  dir XA {
+    xafile CAP1_1.XA
+    xafile CAP2_1.XA
+    xafile CAP3_1.XA
+    xafile CAP3_2.XA
+    xafile CAP4_1.XA
+    xafile CAP4_2.XA
+    xafile CAP5_1.XA
+    xafile CAP5_2.XA
+    xafile CAP6_1.XA
+    xafile CAP7_1.XA
+    xafile CAP7_2.XA
+    xafile CAP8_1.XA
+    xafile CAP8_2.XA
+    xafile HAN.XA
+    xafile LOGO.XA
+    xafile MIXED8S.XA
+  }
+  file 3MIN.
+}

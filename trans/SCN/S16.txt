@@ -1,0 +1,56 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001C0)
+//そのためだ。
+oddly comforting.
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $000001BC)
+//こうしてひとりで生きてゆけるのも
+find these little memories
+<$00>
+
+// Ptr: 0000004C
+#WRITE(PTR, $000001B8)
+//孤児となったわたしが、
+alive. As an orphan, I
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $000001B4)
+//自分の物として得ることができる。
+knowledge from when they were
+<$00>
+
+// Ptr: 00000088
+#WRITE(PTR, $000001B0)
+//その霊の生前の記憶や知識の一部を
+of the ghost's memories and
+<$00>
+
+// Ptr: 000000AC
+#WRITE(PTR, $000001AC)
+//わたしは、除霊をするたびに、
+I've been gaining a small part
+<$00>
+
+// Ptr: 000000CC
+#WRITE(PTR, $000001A8)
+//一風変わっているらしい。
+happening with my exorcisms.
+<$00>
+
+// Ptr: 000000E8
+#WRITE(PTR, $000001A4)
+//わたしの除霊は、どうやら
+Something strange seems to be
+<$00>
+

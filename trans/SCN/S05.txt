@@ -1,0 +1,73 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001FC)
+//出てきたそうです』
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $000001F8)
+//からまった髪の毛が
+hair twisted into the axle."
+<$00>
+
+// Ptr: 00000040
+#WRITE(PTR, $000001F4)
+//ホイールカバーの裏から大量の、
+he found a mass of 
+<$00>
+
+// Ptr: 00000060
+#WRITE(PTR, $000001F0)
+//車をばらしたら、
+Behind the wheel cover,
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $000001EC)
+//ですけど。
+while later.
+<$00>
+
+// Ptr: 00000080
+#WRITE(PTR, $000001E8)
+//あとでそいつから連絡があったん
+I got a letter from him a
+<$00>
+
+// Ptr: 000000A0
+#WRITE(PTR, $000001E4)
+//廃車にしてもらいました。
+who destroyed it for me.
+<$00>
+
+// Ptr: 000000BC
+#WRITE(PTR, $000001E0)
+//知り合いの解体業者に売り払って
+sold it to a car junker I know
+<$00>
+
+// Ptr: 000000DC
+#WRITE(PTR, $000001DC)
+//さすがに気持ちわるかったんで、
+drive that car again, so I
+<$00>
+
+// Ptr: 000000FC
+#WRITE(PTR, $000001D8)
+//『で、この車なんですけど。
+"Well, there's no way I could
+<$00>
+
+// Ptr: 00000118
+#WRITE(PTR, $000001D0)
+//まだ、手紙には続きがある・・・。
+There was still more in the   letter...
+<$00>
+

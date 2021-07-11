@@ -1,0 +1,134 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 24, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000020
+#WRITE(PTR, $00000458)
+//そんなことを思い出したんだろう。
+Why am I remembering this?
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $00000454)
+//でも、何故今、
+But, why now?
+<$00>
+
+// Ptr: 00000054
+#WRITE(PTR, $00000450)
+//・・・・・・
+...
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $0000044C)
+//わたしは屋敷から出なくなった。
+myself in this mansion.
+<$00>
+
+// Ptr: 00000084
+#WRITE(PTR, $00000448)
+//そして、それが悲しくて、
+Then, in my sadness I locked
+<$00>
+
+// Ptr: 000000A0
+#WRITE(PTR, $00000444)
+//友達はみんなわたしを怖がり、
+friends were terrified of me.
+<$00>
+
+// Ptr: 000000C0
+#WRITE(PTR, $00000440)
+//ものを見るようになると、
+things others couldn't, my
+<$00>
+
+// Ptr: 000000DC
+#WRITE(PTR, $0000043C)
+//だけど、わたしがひとには見えない
+But, once I started seeing
+<$00>
+
+// Ptr: 00000100
+#WRITE(PTR, $00000438)
+//優二くん。
+Yuuji.
+<$00>
+
+// Ptr: 0000010C
+#WRITE(PTR, $00000434)
+//名前も覚えている。
+I still remember his name.
+<$00>
+
+// Ptr: 00000120
+#WRITE(PTR, $00000430)
+//優しくしてくれた男の子。
+though I was bad at talking.
+<$00>
+
+// Ptr: 0000013C
+#WRITE(PTR, $0000042C)
+//人と話すのが苦手なわたしに
+was kind and gentle to me even
+<$00>
+
+// Ptr: 00000158
+#WRITE(PTR, $00000428)
+//幼いなりに好きな子も居た。
+I even fell in love. That boy
+<$00>
+
+// Ptr: 00000174
+#WRITE(PTR, $00000424)
+//屋敷の外に出て友達と遊んだ。
+friends outside the mansion.
+<$00>
+
+// Ptr: 00000194
+#WRITE(PTR, $00000420)
+//普通の女の子として暮らしていた。
+normal girl. I played with
+<$00>
+
+// Ptr: 000001B8
+#WRITE(PTR, $0000041C)
+//それまで、わたしは
+Until then, I lived as a
+<$00>
+
+// Ptr: 000001CC
+#WRITE(PTR, $00000418)
+//姿を消してしまった。
+suddenly disappeared.
+<$00>
+
+// Ptr: 000001E4
+#WRITE(PTR, $00000414)
+//父はわたしを残し、
+exchange, my father
+<$00>
+
+// Ptr: 000001F8
+#WRITE(PTR, $00000410)
+//まるで、その力と引き換えのように
+Almost as if it was an
+<$00>
+
+// Ptr: 0000021C
+#WRITE(PTR, $0000040C)
+//７つの時だったと思う。
+first noticed my powers.
+<$00>
+
+// Ptr: 00000234
+#WRITE(PTR, $00000408)
+//わたしがこの力に目覚めたのは、
+I think I was about 7 when I
+<$00>
+

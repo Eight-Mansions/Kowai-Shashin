@@ -1,0 +1,9 @@
+cd/*.bin
+cd/orig/*
+cd/working/*
+
+*.log
+
+error.txt
+format/*
+ins/*

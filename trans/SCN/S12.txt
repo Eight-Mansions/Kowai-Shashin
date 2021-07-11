@@ -1,0 +1,140 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000003A0)
+//《ボーリング》
+(Bowling)
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $0000039C)
+//ヤツはそう言ってました。』
+something..."
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $00000398)
+//ばっちり目が合ったって・・・
+lane, their eyes locked with
+<$00>
+
+// Ptr: 00000064
+#WRITE(PTR, $00000394)
+//そのボールと、
+When they looked down the
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $00000390)
+//ボールが転がってきて
+despite no one being around.
+<$00>
+
+// Ptr: 0000008C
+#WRITE(PTR, $0000038C)
+//誰もいないレーンから
+room, a ball came flying in
+<$00>
+
+// Ptr: 000000A4
+#WRITE(PTR, $00000388)
+//ピンセッター室の掃除をしてたら、
+when cleaning the pin setter
+<$00>
+
+// Ptr: 000000C8
+#WRITE(PTR, $00000384)
+//休業日に
+I heard that on a closed day
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $00000380)
+//このすぐあとでした。
+all that started.
+<$00>
+
+// Ptr: 000000EC
+#WRITE(PTR, $0000037C)
+//おかしくなってやめたのは、
+strangely and quit soon after
+<$00>
+
+// Ptr: 00000108
+#WRITE(PTR, $00000378)
+//新人のバイトくんが
+A new hire started acting
+<$00>
+
+// Ptr: 0000011C
+#WRITE(PTR, $00000374)
+//気持ち悪いことがおきてんです。
+pull the cleaner's arm in.
+<$00>
+
+// Ptr: 0000013C
+#WRITE(PTR, $00000370)
+//職員が腕をはさまれたり、そんな
+The return machine would       suddenly activate and
+<$00>
+
+// Ptr: 0000015C
+#WRITE(PTR, $0000036C)
+//回収する機械がいきなり動いて
+Monitors would suddenly turn   on.
+<$00>
+
+// Ptr: 0000017C
+#WRITE(PTR, $00000368)
+//モニタが勝手についたり、ピンを
+at that bowling alley.
+<$00>
+
+// Ptr: 0000019C
+#WRITE(PTR, $00000364)
+//まえからこのボーリング場では、
+Weird things always happened
+<$00>
+
+// Ptr: 000001BC
+#WRITE(PTR, $00000360)
+//見られてる感じがいつもして。
+constantly being watched.
+<$00>
+
+// Ptr: 000001DC
+#WRITE(PTR, $0000035C)
+//変かも知れませんが、鏡の中から
+but it felt like we were
+<$00>
+
+// Ptr: 000001FC
+#WRITE(PTR, $00000358)
+//怖かったんですよ。
+staff. I know it sounds weird,
+<$00>
+
+// Ptr: 00000210
+#WRITE(PTR, $00000354)
+//スタッフに不評でしたね。
+remodel, which creeped out the
+<$00>
+
+// Ptr: 0000022C
+#WRITE(PTR, $00000350)
+//全面鏡張りになったのは、
+full-sized mirrors during the
+<$00>
+
+// Ptr: 00000248
+#WRITE(PTR, $0000034C)
+//『改装してからフロアの壁が
+"The walls were turned into
+<$00>
+

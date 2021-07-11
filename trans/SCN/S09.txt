@@ -1,0 +1,85 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 20, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 0000001C
+#WRITE(PTR, $000002B0)
+//恐ろしい・・・
+<$00>
+
+// Ptr: 0000002C
+#WRITE(PTR, $000002AC)
+//霊と対話する世界よりも未知で
+than the worlds of spirits...
+<$00>
+
+// Ptr: 0000004C
+#WRITE(PTR, $000002A8)
+//外の世界は、わたしにとって、
+world was far more terrifying
+<$00>
+
+// Ptr: 0000006C
+#WRITE(PTR, $000002A4)
+//あまり外に出たことがない。
+the house. To me, the outside
+<$00>
+
+// Ptr: 00000088
+#WRITE(PTR, $000002A0)
+//それ以来、わたしはこの屋敷から
+Ever since then, I hardly left
+<$00>
+
+// Ptr: 000000A8
+#WRITE(PTR, $0000029C)
+//失踪してしまった。
+I was 7.
+<$00>
+
+// Ptr: 000000BC
+#WRITE(PTR, $00000298)
+//わたしが７つのころに
+power as me, disappeared when
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $00000294)
+//わたしと同じ力を持っていた父は、
+my father, who had the same
+<$00>
+
+// Ptr: 000000F8
+#WRITE(PTR, $00000290)
+//母を早く亡くし、
+My mother passed quickly, and
+<$00>
+
+// Ptr: 0000010C
+#WRITE(PTR, $0000028C)
+//除霊の仕事をこなしている。
+delivers them to me.
+<$00>
+
+// Ptr: 00000128
+#WRITE(PTR, $00000288)
+//エージェントが持ち込む
+requests from my agent who
+<$00>
+
+// Ptr: 00000140
+#WRITE(PTR, $00000284)
+//ひとりでこの屋敷に住み、
+mansion, taking exorcism
+<$00>
+
+// Ptr: 0000015C
+#WRITE(PTR, $00000280)
+//わたしは、
+I live here alone in this
+<$00>
+

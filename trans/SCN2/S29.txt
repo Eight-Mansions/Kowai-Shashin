@@ -1,0 +1,43 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001CC)
+//わたしに食らわれることだった。
+<$00>
+
+// Ptr: 00000038
+#WRITE(PTR, $000001C8)
+//この幼い霊を襲った最後の運命は、
+<$00>
+
+// Ptr: 0000005C
+#WRITE(PTR, $000001C4)
+//満たされない空腹に泣き叫ぶ、
+<$00>
+
+// Ptr: 0000007C
+#WRITE(PTR, $000001C0)
+//貪欲なまでに吸い込んでいたからだった。
+<$00>
+
+// Ptr: 000000A4
+#WRITE(PTR, $000001BC)
+//辺りの霊体を呼び寄せ、
+<$00>
+
+// Ptr: 000000BC
+#WRITE(PTR, $000001B8)
+//すきまから見える顔が巨大なのは、
+<$00>
+
+// Ptr: 000000E0
+#WRITE(PTR, $000001B4)
+//この霊は、とてもおなかを空かせていた。
+<$00>
+

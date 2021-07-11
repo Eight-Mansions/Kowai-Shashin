@@ -1,0 +1,84 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 20, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 0000001C
+#WRITE(PTR, $000002B8)
+//わたしの生業である。
+<$00>
+
+// Ptr: 00000034
+#WRITE(PTR, $000002B4)
+//浄化することが
+in photographs.
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $000002B0)
+//死者の執念をはらい、
+hateful spirits that lurk
+<$00>
+
+// Ptr: 0000005C
+#WRITE(PTR, $000002AC)
+//特に、写真に焼きついた
+My specialty is expelling
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $000002A8)
+//その力をつかって生きている。
+income from this process.
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $000002A4)
+//いま、わたしは、
+I'm able to earn a steady
+<$00>
+
+// Ptr: 000000A8
+#WRITE(PTR, $000002A0)
+//そして悪意を持つ霊と闘い、　　　それを消し去ること。
+exorcise spirits with          malicious intent.
+<$00>
+
+// Ptr: 000000E0
+#WRITE(PTR, $0000029C)
+//霊を見ること。
+I use my special abilities to
+<$00>
+
+// Ptr: 000000F0
+#WRITE(PTR, $00000298)
+//それは、
+the spirits of the dead.
+<$00>
+
+// Ptr: 000000FC
+#WRITE(PTR, $00000294)
+//わたしの持っている力、
+That power lets me see 
+<$00>
+
+// Ptr: 00000114
+#WRITE(PTR, $00000290)
+//ふしぎな力があった。
+I had a strange power.
+<$00>
+
+// Ptr: 0000012C
+#WRITE(PTR, $0000028C)
+//わたしには小さいころから、
+Ever since I was a child,
+<$00>
+
+// Ptr: 00000148
+#WRITE(PTR, $00000288)
+//わたしの名前は緋織（ひおり）。
+My name is Hiori.
+<$00>

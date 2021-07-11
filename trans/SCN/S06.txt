@@ -1,0 +1,98 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000002CC)
+//《かくれんぼ》
+(Hide-and-Seek)
+<$00>
+
+// Ptr: 00000028
+#WRITE(PTR, $000002C8)
+//“ここだよぉ”って・・・』
+'I'm over here!'"
+<$00>
+
+// Ptr: 00000044
+#WRITE(PTR, $000002C4)
+//楽しそうな子供の声で、
+voice saying
+<$00>
+
+// Ptr: 0000005C
+#WRITE(PTR, $000002C0)
+//確かに聞こえました。
+swear I head a kid's playful
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $000002BC)
+//この写真を撮ったとき、自分にも
+When I took this photo, I
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $000002B8)
+//車体に子供の手形がついてたり。
+print would appear in a locked car at night.
+<$00>
+
+// Ptr: 000000B4
+#WRITE(PTR, $000002B4)
+//真夜中に停めたのに、数時間後、
+Other times, a child's hand-
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $000002B0)
+//小さな人影がよぎったり。
+would dart between the cars.
+<$00>
+
+// Ptr: 000000F0
+#WRITE(PTR, $000002AC)
+//車と車の間を
+Sometimes, a small human shape
+<$00>
+
+// Ptr: 00000100
+#WRITE(PTR, $000002A8)
+//ちょうどそのころからですね。
+lot from then on.
+<$00>
+
+// Ptr: 00000120
+#WRITE(PTR, $000002A4)
+//出来事がおきるようになったのは、
+occur at that 24-hour parking
+<$00>
+
+// Ptr: 00000144
+#WRITE(PTR, $000002A0)
+//この２４時間式の駐車場で、奇妙な
+Strange things started to
+<$00>
+
+// Ptr: 00000168
+#WRITE(PTR, $0000029C)
+//行方不明になる事件がありました。
+pachinko parlor.
+<$00>
+
+// Ptr: 0000018C
+#WRITE(PTR, $00000298)
+//親が遊んでいる間に、子供がひとり
+the parents played at a nearby
+<$00>
+
+// Ptr: 000001B0
+#WRITE(PTR, $00000294)
+//『近くにあるパチンコパーラーで
+"A child went missing while
+<$00>
+

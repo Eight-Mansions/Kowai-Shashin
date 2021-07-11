@@ -1,0 +1,68 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", 16, 32)
+#STRINGALIGN(4)
+#JMP(-1)
+
+// Ptr: 00000018
+#WRITE(PTR, $000001EC)
+//果たすことがあるのです。
+worlds and act like windows    to us.
+<$00>
+
+// Ptr: 00000034
+#WRITE(PTR, $000001E8)
+//通じる、窓のような役割を
+can connect us to other
+<$00>
+
+// Ptr: 00000050
+#WRITE(PTR, $000001E4)
+//写真も、鏡も、もうひとつの世界へ
+Photos, mirrors, and the like
+<$00>
+
+// Ptr: 00000074
+#WRITE(PTR, $000001E0)
+//反応は、おかしくはありません。
+mirrors is pretty natural.
+<$00>
+
+// Ptr: 00000094
+#WRITE(PTR, $000001DC)
+//与えやすいので、鏡が怖いという
+so a tense feeling around
+<$00>
+
+// Ptr: 000000B4
+#WRITE(PTR, $000001D8)
+//鏡のようなものには、霊が影響を
+are easy for ghosts to affect,
+<$00>
+
+// Ptr: 000000D4
+#WRITE(PTR, $000001D4)
+//集まってきます。
+places. Mirror-like surfaces
+<$00>
+
+// Ptr: 000000E8
+#WRITE(PTR, $000001D0)
+//居場所のないさびしい霊もまた
+to go often gather in lively
+<$00>
+
+// Ptr: 00000108
+#WRITE(PTR, $000001CC)
+//人が集まるにぎやかな場所には、
+Lonely spirits with nowhere
+<$00>
+
+// Ptr: 00000128
+#WRITE(PTR, $000001C4)
+//【緋織からの除霊結果報告】
+(Hiori's Exorcism Report)
+<$00>
+
