@@ -34,8 +34,10 @@ def read_directory(directory):
 
 
 def format_file(script, parent):
-    output_file = os.path.join(output_path, parent.name)
-    output_file = os.path.join(output_file, script.name)
+    parent_path = os.path.join(output_path, parent.name)
+    Path(parent_path).mkdir(parents=True, exist_ok=True)
+
+    output_file = os.path.join(parent_path, script.name)
 
     with open(output_file, "w") as file:
         with open(script.absolute(), "r") as script:
