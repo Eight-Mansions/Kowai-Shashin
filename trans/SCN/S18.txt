@@ -70,32 +70,36 @@
 // Ptr: 00000188
 #WRITE(PTR, $00000320)
 //ぶちあたります。
+beyond a person's power.
 <$00>
 
 // Ptr: 0000019C
 #WRITE(PTR, $0000031C)
 //ひとの力のおよばないものに
+I run into things that are
 <$00>
 
 // Ptr: 000001B8
 #WRITE(PTR, $00000318)
 //自信がありますが、時折こうした、
+when up that high, but sometimes
 <$00>
 
 // Ptr: 000001DC
 #WRITE(PTR, $00000314)
 //作業上の困難ならば、無事にこなす
+I have confidence to do my job
 <$00>
 
 // Ptr: 00000200
 #WRITE(PTR, $00000310)
 //保守点検を仕事にしております。
-power lines.
+checks on transmission towers.
 <$00>
 
 // Ptr: 00000220
 #WRITE(PTR, $0000030C)
 //『わたしは、送電線鉄塔の
-"I'm a maintenance worker for
+"I'm a maintenance worker who
 <$00>
 

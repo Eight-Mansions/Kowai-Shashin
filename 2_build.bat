@@ -13,6 +13,7 @@ copy graphics\TITLE.DAT cd\working\DATA\TITLE.DAT
 :: Build the new exe using the assembly file
 copy exe\orig\SLPS_034.54 exe\SLPS_034.54
 tools\armips.exe code\kowai-shashin-assembly.asm
+tools\atlas exe\SLPS_034.54 trans\exe_translations.txt >> exe_error.txt
 copy exe\SLPS_034.54 cd\working\SLPS_034.54
 
 :: Combine everything into a final build

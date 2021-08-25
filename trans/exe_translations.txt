@@ -1,0 +1,190 @@
+#VAR(Table, TABLE)
+#ADDTBL("sjis.tbl", Table)
+#ACTIVETBL(Table)
+#VAR(PTR, CUSTOMPOINTER)
+#CREATEPTR(PTR, "LINEAR", -2147547136, 32)
+
+#JMP($000019D4)
+//アルバムデータをロードしますか？
+Load album data?
+<$00>
+
+#JMP($000019F8)
+//セーブするには１ブロック必要です
+1 block is needed for saving.
+<$00>
+
+#JMP($00001A1C)
+//メモリーカードの空きブロックがありません
+The memory card is full.
+<$00>
+
+#JMP($00001A48)
+//メモリーカードが抜かれました
+Memory card removed.
+<$00>
+
+#JMP($00001A68)
+//ダウンロードに失敗しました
+Download failed.
+<$00>
+
+#JMP($00001A84)
+//ダウンロードが完了しました
+Download complete.
+<$00>
+
+#JMP($00001AA0)
+//ダウンロード中です
+Downloading...
+<$00>
+
+#JMP($00001AB4)
+//ポケットステーションが差さっていません
+No PocketStation found.
+<$00>
+
+#JMP($00001ADC)
+//ポケットステーションを抜かないで下さい
+Do not remove the PocketStation.
+<$00>
+
+#JMP($00001B04)
+//メモリーカードを抜かないで下さい
+Do not remove memory card.
+<$00>
+
+#JMP($00001B28)
+//はい　　　いいえ
+Yes     No
+<$00>
+
+#JMP($00001B3C)
+//ダウンロードしますか？
+Download?
+<$00>
+
+#JMP($00001B54)
+//フォーマットしますか？
+Format?
+<$00>
+
+#JMP($00001B6C)
+//上書きしますか？
+Overwrite?
+<$00>
+
+#JMP($00001B80)
+//フォーマットに失敗しました
+Format failed.
+<$00>
+
+#JMP($00001B9C)
+//フォーマットが完了しました
+Format complete.
+<$00>
+
+#JMP($00001BB8)
+//セーブに失敗しました
+Save failed.
+<$00>
+
+#JMP($00001BD0)
+//セーブが完了しました
+Save complete.
+<$00>
+
+#JMP($00001BE8)
+//ロードに失敗しました
+Load failed.
+<$00>
+
+#JMP($00001C00)
+//ロードが完了しました
+Load complete.
+<$00>
+
+#JMP($00001C18)
+//データが壊れています
+Data is haunted.
+<$00>
+
+#JMP($00001C30)
+//ロードデータがありませんでした
+No data found.
+<$00>
+
+#JMP($00001C50)
+//空きブロックが足りません
+Not enough free space.
+<$00>
+
+#JMP($00001C6C)
+//ポケットステーションの
+PocketStation<$20>
+<$00>
+
+#JMP($00001C84)
+//メモリーカードの
+Memory Card<$20>
+<$00>
+
+#JMP($00001C98)
+//チェックに失敗しました
+check failed.
+<$00>
+
+#JMP($00001CB0)
+//フォーマットされていません
+has not been formatted.
+<$00>
+
+#JMP($00001CCC)
+//ポケットステーションが
+PocketStation<$20>
+<$00>
+
+#JMP($00001CE4)
+//メモリーカードが
+Memory Card<$20>
+<$00>
+
+#JMP($00001CF8)
+//メモリーカードが差さっていません
+No memory card found.
+<$00>
+
+#JMP($00001D1C)
+//メモリーカード差込口１に
+Slot 1
+<$00>
+
+#JMP($00001D38)
+//ポケットステーションをチェック中です
+Checking PocketStation.
+<$00>
+
+#JMP($00001D60)
+//メモリーカード差込口１をチェック中です
+Checking memory card in slot 1.
+<$00>
+
+#JMP($00001D88)
+//フォーマット中です
+Formatting...
+<$00>
+
+#JMP($00001D9C)
+//セーブ中です
+Saving...
+<$00>
+
+#JMP($00001DAC)
+//ロード中です
+Loading...
+<$00>
+
+#JMP($00001E5C)
+//セーブしますか？
+Save game?
+<$00>

@@ -6,6 +6,9 @@ cd/working/*
 
 *.log
 
-error.txt
+*error.txt
 format/*
 ins/*
+
+exe/SLPS_034.54
+
