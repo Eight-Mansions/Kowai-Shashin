@@ -22,7 +22,7 @@ def read_directory(directory):
     Scans the given directory recursively and parses any files within
     :param directory: Current directory to scan
     """
-    for path in Path(directory).rglob("*"):
+    for path in Path(directory).rglob("SCN*/*"):
         if path.is_file():
             print("Scanning " + path.name)
             try:
