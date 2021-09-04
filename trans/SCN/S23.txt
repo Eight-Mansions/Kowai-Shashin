@@ -32,15 +32,18 @@
 // Ptr: 000000D0
 #WRITE(PTR, $000001D8)
 //わたしは意識を集中した。
+I focused as hard as I could.
 <$00>
 
 // Ptr: 000000EC
 #WRITE(PTR, $000001D4)
 //これでお別れなら、最後の声を　　聞きたい！
+Since this is farewell,      please listen to me!!"
 <$00>
 
 // Ptr: 00000118
 #WRITE(PTR, $000001D0)
 //優二くん！
+"<name> kun!
 <$00>
 

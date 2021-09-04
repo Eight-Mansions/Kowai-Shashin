@@ -9,60 +9,72 @@
 // Ptr: 00000018
 #WRITE(PTR, $0000021C)
 //正解でしたね。
+brige was the right call.
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $00000218)
 //桟橋の先に行かれなかったのは、
+Not getting any closer to the
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $00000214)
 //待ち構えていました。
+its dark and cold world.
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $00000210)
 //暗くて冷たい世界へ引き込もうと
+energy and drags them into
 <$00>
 
 // Ptr: 00000080
 #WRITE(PTR, $0000020C)
 //近寄るものに呼びかけ、自分が棲む
+it with it's strong evil
 <$00>
 
 // Ptr: 000000A4
 #WRITE(PTR, $00000208)
 //このものは、その強く邪悪な波動で
+This spirit calls people to
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $00000204)
 //しょう。
+by sheer hatred.
 <$00>
 
 // Ptr: 000000D4
 #WRITE(PTR, $00000200)
 //怨念だけが強く育っていったので
+It must have stayed alive by
 <$00>
 
 // Ptr: 000000F4
 #WRITE(PTR, $000001FC)
 //引き上げられることもなく、
+in deep, dark water.
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $000001F8)
 //いまだに暗い水の底で
+dangerous spirit that thrives
 <$00>
 
 // Ptr: 00000128
 #WRITE(PTR, $000001F4)
 //とても古く、危険な霊でした。
+This was an ancient and
 <$00>
 
 // Ptr: 00000148
 #WRITE(PTR, $000001EC)
 //【緋織の除霊結果報告】
+"Hiori's Exorcism Report"
 <$00>
 

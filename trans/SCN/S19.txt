@@ -9,65 +9,78 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000250)
 //しれません。
+easy to live inside of.
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $0000024C)
 //命が宿りやすいのかも
+transmission tower could be
 <$00>
 
 // Ptr: 00000040
 #WRITE(PTR, $00000248)
 //高圧電流を経由する鉄塔には、
+strong electricity like the
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $00000244)
 //いわゆる電気と同じものですから、
+impulses, so something with
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $00000240)
 //生物の体を動かす力は、生体電気、
+Our brains are run by electrical
 <$00>
 
 // Ptr: 000000A8
 #WRITE(PTR, $0000023C)
 //“妖怪”と呼ぶのでしょうね。
+call these lives "fairies."
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $00000238)
 //昔の人々ならば、こうしたものを
+In the past, people would
 <$00>
 
 // Ptr: 000000E8
 #WRITE(PTR, $00000234)
 //言います。
+its way into things around us.
 <$00>
 
 // Ptr: 000000F4
 #WRITE(PTR, $00000230)
 //時をへると、物にも命が宿ると
+As time passes, life can find
 <$00>
 
 // Ptr: 00000114
 #WRITE(PTR, $0000022C)
 //自然霊に近いものでした。
+natural like a plant or animal.
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $00000228)
 //波動は、動物や植物といった
+spirit resembled something
 <$00>
 
 // Ptr: 0000014C
 #WRITE(PTR, $00000224)
 //わたしが、この霊から感じた
+The energy I felt from this
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $0000021C)
 //【緋織からの除霊結果報告】
+"Hiori's Exorcism Report"
 <$00>
 

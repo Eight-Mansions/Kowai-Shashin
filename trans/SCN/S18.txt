@@ -15,56 +15,67 @@
 // Ptr: 00000028
 #WRITE(PTR, $0000034C)
 //そんな“怪物”のひとつです。』
+one 'monster' can be seen."
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $00000348)
 //そして、写真のＭ区４号鉄塔も、
+In this photo of tower M4,
 <$00>
 
 // Ptr: 00000068
 #WRITE(PTR, $00000344)
 //ひびいたりするものです。
+echoes in the wind.
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $00000340)
 //風の通る音が笑い声のように
+and a sound like laughter
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $0000033C)
 //鉄骨が喜ぶようにふるえたり、
+bars seem to shake with pleasure
 <$00>
 
 // Ptr: 000000C0
 #WRITE(PTR, $00000338)
 //そんな鉄塔では、事故のたびに
+After an accident, those steel
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000334)
 //事故を起こすものがあるのです。
+We've had shocks and falling accidents as well.
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000330)
 //あるかのように、感電や、落下の
+old tower has life and a will of its own.
 <$00>
 
 // Ptr: 00000120
 #WRITE(PTR, $0000032C)
 //しばしば、それ自体に意思や生命が
+it feels like something inside that
 <$00>
 
 // Ptr: 00000144
 #WRITE(PTR, $00000328)
 //しれませんが、古い鉄塔のなかには
+nonsense, but now and then
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $00000324)
 //ばかばかしいお話に聞こえるかも
+This might sound like utter
 <$00>
 
 // Ptr: 00000188

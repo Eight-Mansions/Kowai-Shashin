@@ -9,26 +9,31 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000340)
 //正しいことだったのだろうか。
+Did I do the right thing...?
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $0000033C)
 //わたしが彼にしたのは、
+in hell.
 <$00>
 
 // Ptr: 00000050
 #WRITE(PTR, $00000338)
 //わたしの心を地獄のように焼いた。
+resisted like his soul burned
 <$00>
 
 // Ptr: 00000074
 #WRITE(PTR, $00000334)
 //彼の激しい拒絶と苦悶は、
+clear how much he violently
 <$00>
 
 // Ptr: 00000090
 #WRITE(PTR, $00000330)
 //最後に伝わった
+In the end, it was all too
 <$00>
 
 // Ptr: 000000A0
@@ -39,55 +44,66 @@
 // Ptr: 000000AC
 #WRITE(PTR, $00000328)
 //できると思っていた。
+but...
 <$00>
 
 // Ptr: 000000C4
 #WRITE(PTR, $00000324)
 //除霊することで彼の霊を安らかに
+spirit rest in peace,
 <$00>
 
 // Ptr: 000000E4
 #WRITE(PTR, $00000320)
 //この世から消滅させてしまった。
+I thought I could help his
 <$00>
 
 // Ptr: 00000104
 #WRITE(PTR, $0000031C)
 //自分の手で、彼の魂を
+this world by my own hands.
 <$00>
 
 // Ptr: 0000011C
 #WRITE(PTR, $00000318)
 //わたしは、
+I drove his spirit from
 <$00>
 
 // Ptr: 00000128
 #WRITE(PTR, $00000314)
 //この世界から完全に消えた。
+this world forever.
 <$00>
 
 // Ptr: 00000144
 #WRITE(PTR, $00000310)
 //優二くんの気配は
+his prescense left
 <$00>
 
 // Ptr: 00000158
 #WRITE(PTR, $0000030C)
 //そしてそのあと、
+Afterwards, 
 <$00>
 
 // Ptr: 0000016C
 #WRITE(PTR, $00000308)
 //ばらばらに打ち砕いた。
+timid memories of him.
 <$00>
 
 // Ptr: 00000184
 #WRITE(PTR, $00000304)
 //わたしの淡い思い出すら
+crashed against my
 <$00>
 
 // Ptr: 0000019C
 #WRITE(PTR, $00000300)
 //流れ込んできた彼の感情は、
+His screaming emotions
 <$00>
 
