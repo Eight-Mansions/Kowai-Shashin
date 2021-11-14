@@ -2,6 +2,9 @@ del error.txt
 del /q /s ins\*
 xcopy /e orig\* ins
 
+:: Insert script-specific images before inserting the translations
+python tools\KSImageCompressor.py graphics\S17 ins\SCN\S17.DAT ins\SCN\S17.DAT
+
 echo "Files copied, inserting"
 echo  format\SCN\S00.txt >> error.txt
 tools\atlas ins\SCN\S00.DAT format\SCN\S00.txt >> error.txt

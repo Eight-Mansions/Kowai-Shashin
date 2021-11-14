@@ -9,75 +9,90 @@
 // Ptr: 00000020
 #WRITE(PTR, $0000037C)
 //除霊依頼の手紙の束だった。
+purification request letter.
 <$00>
 
 // Ptr: 0000003C
 #WRITE(PTR, $00000378)
 //届いていた
+of me and grabbed a
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $00000374)
 //わたしが手を伸ばしたのは、
+My arms reached out in front
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $00000370)
 //けだもののように
+like a starving animal.
 <$00>
 
 // Ptr: 00000078
 #WRITE(PTR, $0000036C)
 //わたしの足は勝手に書斎へと　　　向かう。
+My legs dragged me to the      library on their own,
 <$00>
 
 // Ptr: 000000A4
 #WRITE(PTR, $00000368)
 //わたしは寝室から出た。
+and left my bedroom.
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $00000364)
 //ベッドから這い降りるようにして
+I crawled out of my bed
 <$00>
 
 // Ptr: 000000DC
 #WRITE(PTR, $00000360)
 //でも、たまらなく苦しい！
+But, I can't stand hearing it!
 <$00>
 
 // Ptr: 000000F8
 #WRITE(PTR, $0000035C)
 //食べ物が欲しいのではない、
+This isn't a desire for food.
 <$00>
 
 // Ptr: 00000114
 #WRITE(PTR, $00000358)
 //なんだろう？この飢えは。
+What is my body hungry for?
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $00000354)
 //わたしは激しい飢えで目が覚めた。
+with a violent hunger.
 <$00>
 
 // Ptr: 00000154
 #WRITE(PTR, $00000350)
 //ところがある朝、
+Then one morning, I awoke
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $0000034C)
 //ぼんやりと過ごす日が続いていた。
+just lazed about for a few     days.
 <$00>
 
 // Ptr: 0000018C
 #WRITE(PTR, $00000348)
 //除霊の仕事をしばらく休み、
+I took a break from work and
 <$00>
 
 // Ptr: 000001A8
 #WRITE(PTR, $00000344)
 //優二くんの件以来、わたしは呆然としてしまったのだと思う。
+I've been in a daze since the  incident with Yuuji-kun.
 <$00>
 

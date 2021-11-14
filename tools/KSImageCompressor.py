@@ -66,10 +66,10 @@ with open(original_archive, "rb") as archive:
         # If this image is not one we've translated, add it as-is
         if not pointer_image.is_file():
             pointer_end = len(raw_hex)
-            if index < len(image_pointers):
+            if index < len(image_pointers) - 1:
                 pointer_end = image_pointers[index + 1]
             image_bytes = raw_hex[pointer * 2:pointer_end * 2]
-            output_pointers.append(int(len(output_bytes) / 2) + image_data_start)
+            output_pointers.append(int(len(output_bytes)) + image_data_start)
             output_bytes += bytes.fromhex(image_bytes)
 
         # Recompress translated images

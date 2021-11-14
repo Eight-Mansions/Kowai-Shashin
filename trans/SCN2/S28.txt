@@ -9,100 +9,120 @@
 // Ptr: 00000018
 #WRITE(PTR, $000003A4)
 //《カラスの声》
+Crow Call
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $000003A0)
 //ずっと聞こえていましたから。』
+Never ceasing.
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $0000039C)
 //カラスがまだ居ない深夜から、
+crows are around.
 <$00>
 
 // Ptr: 00000068
 #WRITE(PTR, $00000398)
 //その泣き叫ぶようなしわがれ声は
+in the dead of night when no
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $00000394)
 //と確信しています。なぜなら、
+I hear that squaking noise
 <$00>
 
 // Ptr: 000000A8
 #WRITE(PTR, $00000390)
 //“これ”のものだったのだな、
+crow came from 'here.'
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $0000038C)
 //カラスだと思っていた鳴き声は、
+I know what I thought was a
 <$00>
 
 // Ptr: 000000E8
 #WRITE(PTR, $00000388)
 //ただ、いままで、
+contained, but now,
 <$00>
 
 // Ptr: 000000FC
 #WRITE(PTR, $00000384)
 //どうか、私には分かりません。
+know what sadness that apartment
 <$00>
 
 // Ptr: 0000011C
 #WRITE(PTR, $00000380)
 //こんな陰惨な出来事があったのか
+teant was forced to leave. I don't
 <$00>
 
 // Ptr: 0000013C
 #WRITE(PTR, $0000037C)
 //住民の入れ替わりもはげしく、
+This trash is from when the old
 <$00>
 
 // Ptr: 0000015C
 #WRITE(PTR, $00000378)
 //近くのワンルームマンションで、
+one room apartment near here.
 <$00>
 
 // Ptr: 0000017C
 #WRITE(PTR, $00000374)
 //この集積場を使っているのは
+This point is used by a
 <$00>
 
 // Ptr: 00000198
 #WRITE(PTR, $00000370)
 //思ってもいませんでした。
+photo this bizarre.
 <$00>
 
 // Ptr: 000001B4
 #WRITE(PTR, $0000036C)
 //こんな異様なものが写るとは、
+but I didn't think I'd take a
 <$00>
 
 // Ptr: 000001D4
 #WRITE(PTR, $00000368)
 //被害の実態を調べていたのですが
+to find out what they're going for,
 <$00>
 
 // Ptr: 000001F4
 #WRITE(PTR, $00000364)
 //その様子をカメラに収め、
+so I tried to take some photos
 <$00>
 
 // Ptr: 00000210
 #WRITE(PTR, $00000360)
 //よくカラスがゴミを荒らすので、
+The crows often make a mess here,
 <$00>
 
 // Ptr: 00000230
 #WRITE(PTR, $0000035C)
 //ゴミ集積場を映したものです。
+collection point near my house.
 <$00>
 
 // Ptr: 00000250
 #WRITE(PTR, $00000358)
 //『これは、私の家の近くにある、
+"This is a photo of the garbage
 <$00>
 
