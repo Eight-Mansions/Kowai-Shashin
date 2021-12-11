@@ -9,70 +9,84 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000270)
 //なかったのかもしれません。
+past.
 <$00>
 
 // Ptr: 00000034
 #WRITE(PTR, $0000026C)
 //あまり楽しいところでは
+a dark place in the
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $00000268)
 //むかし、この場所は、
+This room may have been
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $00000264)
 //クビだけの姿でした。
+with were their necks.
 <$00>
 
 // Ptr: 0000007C
 #WRITE(PTR, $00000260)
 //壁を叩くものも、全て、
+have banged on the walls
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $0000025C)
 //大騒ぎしているものも、
+The only thing they could
 <$00>
 
 // Ptr: 000000AC
 #WRITE(PTR, $00000258)
 //体がありませんでした。
+any limbs.
 <$00>
 
 // Ptr: 000000C4
 #WRITE(PTR, $00000254)
 //ここの霊たちには、みな、
+none of the ghosts had
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000250)
 //あと、わたしが見たところ
+Also, from what I could see,
 <$00>
 
 // Ptr: 000000FC
 #WRITE(PTR, $0000024C)
 //方が、侵入者だったのでしょう。
+have been noisy intruders.
 <$00>
 
 // Ptr: 0000011C
 #WRITE(PTR, $00000248)
 //かれらからすれば、あなたがたの
+From their perspective, you must
 <$00>
 
 // Ptr: 0000013C
 #WRITE(PTR, $00000244)
 //ここに、住みついていたようです。
+for a long time now.
 <$00>
 
 // Ptr: 00000160
 #WRITE(PTR, $00000240)
 //かれらは、ずっと以前から
+It seems they've lived here
 <$00>
 
 // Ptr: 0000017C
 #WRITE(PTR, $00000238)
 //【緋織からの除霊結果報告】
+"Hiori's Exorcism Report"
 <$00>
 

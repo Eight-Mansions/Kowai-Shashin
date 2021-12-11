@@ -9,90 +9,108 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000344)
 //《隙間にいるもの》
+"In the Gap"
 <$00>
 
 // Ptr: 0000002C
 #WRITE(PTR, $00000340)
 //見たくないじゃないですか。』
+gap looks like."
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $0000033C)
 //こんなものの正体なんて、絶対
+thing that lives in a 10cm
 <$00>
 
 // Ptr: 0000006C
 #WRITE(PTR, $00000338)
 //１０センチくらいの隙間に居る
+to see what the rest of that
 <$00>
 
 // Ptr: 0000008C
 #WRITE(PTR, $00000334)
 //だって、自販機と自販機の、ほんの
+I sure as hell don't want
 <$00>
 
 // Ptr: 000000B0
 #WRITE(PTR, $00000330)
 //隙間を見ないように・・・。
+To never look in the gap...
 <$00>
 
 // Ptr: 000000CC
 #WRITE(PTR, $0000032C)
 //気をつけるようになりました。
+picture, I heed his advice.
 <$00>
 
 // Ptr: 000000EC
 #WRITE(PTR, $00000328)
 //この写真を撮っていらい
+But now that I've take this
 <$00>
 
 // Ptr: 00000104
 #WRITE(PTR, $00000324)
 //いなかったんですけど。
+to heard.
 <$00>
 
 // Ptr: 0000011C
 #WRITE(PTR, $00000320)
 //あんまり言うことなんか気にして
+so we didn't take his advice
 <$00>
 
 // Ptr: 0000013C
 #WRITE(PTR, $0000031C)
 //もともと変わり者のオヤジなんで
+He always seemed a bit senile,
 <$00>
 
 // Ptr: 0000015C
 #WRITE(PTR, $00000318)
 //隙間を見るなってね。
+gap between the machines.
 <$00>
 
 // Ptr: 00000174
 #WRITE(PTR, $00000314)
 //うっかり、機械と機械の間にある
+our drinks, never look at the
 <$00>
 
 // Ptr: 00000194
 #WRITE(PTR, $00000310)
 //飲み物を取るとき、注意しろ。
+He'd warn us that when we grab
 <$00>
 
 // Ptr: 000001B4
 #WRITE(PTR, $0000030C)
 //見に来てこう言うんです。
+to talk to us.
 <$00>
 
 // Ptr: 000001D0
 #WRITE(PTR, $00000308)
 //飲み物を買ってると、ときどき
+we use would come out
 <$00>
 
 // Ptr: 000001F0
 #WRITE(PTR, $00000304)
 //オヤジは、ぼくたちがここで
+old candy shop near the vending
 <$00>
 
 // Ptr: 0000020C
 #WRITE(PTR, $00000300)
 //『この自販機がある古い駄菓子屋の
+"Sometimes the owner of the
 <$00>
 

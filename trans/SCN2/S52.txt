@@ -9,140 +9,168 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000005B4)
 //父さんは・・・だから・・・
+That's why he...
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $000005B0)
 //その時が近いことを知った
+My father knew this...
 <$00>
 
 // Ptr: 00000054
 #WRITE(PTR, $000005A8)
 //こととなった。
+powers grew strong enough.
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $000005A4)
 //悪霊の餌食となる運命を背負う
+by that demon when our
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $000005A0)
 //その霊力がある程度満ちた時
+destiny was to be consumed
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $0000059C)
 //行いの報いに、わたしの血族は皆
+quest for godhood, our
 <$00>
 
 // Ptr: 000000C0
 #WRITE(PTR, $00000598)
 //一族の栄光を夢見たあさましい
+As punishment for that shameful
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000594)
 //その邪悪な力を高めていった。
+while enhancing its abilities.
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000590)
 //強きものを次々と食らい
+consuming more and more people
 <$00>
 
 // Ptr: 00000118
 #WRITE(PTR, $0000058C)
 //ただただ、欲望のままに
+goal and just followed its hunger,
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $00000588)
 //悪霊は、本来の目的など失い
+That demon forgot its original
 <$00>
 
 // Ptr: 0000014C
 #WRITE(PTR, $00000584)
 //一個の恐ろしい悪霊だった。
+demon.
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $00000580)
 //夢見たような至高の賢者ではなく
+not a god, but a terrifying
 <$00>
 
 // Ptr: 00000188
 #WRITE(PTR, $0000057C)
 //しかし、その途上で誕生したのは
+But what was born from that was
 <$00>
 
 // Ptr: 000001A8
 #WRITE(PTR, $00000578)
 //食いあった。
+murdering and eating one another.
 <$00>
 
 // Ptr: 000001B8
 #WRITE(PTR, $00000574)
 //一族はたがいに殺しあい
+The family became indiscriminately
 <$00>
 
 // Ptr: 000001D0
 #WRITE(PTR, $00000570)
 //神のごとき賢者になれるはずだと。
+a god.
 <$00>
 
 // Ptr: 000001F4
 #WRITE(PTR, $0000056C)
 //最後に生き残るものは
+the family would become like
 <$00>
 
 // Ptr: 0000020C
 #WRITE(PTR, $00000568)
 //そして、同族同士で食いあったなら
+Then, the final survivor of
 <$00>
 
 // Ptr: 00000230
 #WRITE(PTR, $00000564)
 //より大いなる力を得られるだろう
+they'd gain immense strength.
 <$00>
 
 // Ptr: 00000250
 #WRITE(PTR, $00000560)
 //同族の命を食らえば
+someone who consumed other spirits,
 <$00>
 
 // Ptr: 00000264
 #WRITE(PTR, $0000055C)
 //すなわち、多くの魂を食らった
+If they ate the spirit of
 <$00>
 
 // Ptr: 00000284
 #WRITE(PTR, $00000558)
 //恐ろしい考えにいたってしまった。
+thought of something terrible.
 <$00>
 
 // Ptr: 000002A8
 #WRITE(PTR, $00000554)
 //より大きな力と栄光を求め
+overwhelming power and glory
 <$00>
 
 // Ptr: 000002C4
 #WRITE(PTR, $00000550)
 //ところが、あるとき一族は
+One family member craving
 <$00>
 
 // Ptr: 000002E0
 #WRITE(PTR, $0000054C)
 //数々の偉業をなしとげてきた。
+and power to achive great things.
 <$00>
 
 // Ptr: 00000300
 #WRITE(PTR, $00000548)
 //その知識や力を自分のものにして
+of people to gain their knowledge
 <$00>
 
 // Ptr: 00000320
 #WRITE(PTR, $00000544)
 //わたしの先祖たちは人の魂を食らい
+My ancestors would eat the souls
 <$00>
 

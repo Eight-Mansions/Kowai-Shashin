@@ -9,75 +9,90 @@
 // Ptr: 00000018
 #WRITE(PTR, $000002E8)
 //知っていたかもしれない・・・
+an answer for me...
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $000002E4)
 //父さんなら、その答えを
+Maybe my father would have
 <$00>
 
 // Ptr: 00000050
 #WRITE(PTR, $000002E0)
 //わたしは何者なの？
+Just what the hell was I!?
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $000002DC)
 //そのことを考えると恐ろしくなる。
+I became terrified of my powers.
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $000002D8)
 //満たされた感覚・・・
+still haunted me...
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $000002D4)
 //生きた魂を吸収したときの
+man of his life
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000002D0)
 //命を奪ってしまった男性の、
+satisfaction from robbing that
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $000002CC)
 //図らずも、わたしが
+The intense feeling of
 <$00>
 
 // Ptr: 000000EC
 #WRITE(PTR, $000002C8)
 //生霊を除霊したときのことを思う。
+the living spirit I exorcised.
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $000002C4)
 //そして、ときおり、
+Then sometimes I'd remember
 <$00>
 
 // Ptr: 00000124
 #WRITE(PTR, $000002C0)
 //わたしにも分からない。
+become?
 <$00>
 
 // Ptr: 0000013C
 #WRITE(PTR, $000002BC)
 //どこまで強くなるのか、
+terrifying urges
 <$00>
 
 // Ptr: 00000154
 #WRITE(PTR, $000002B8)
 //でも、わたしをさいなむこの飢えが
+just how strong would these
 <$00>
 
 // Ptr: 00000178
 #WRITE(PTR, $000002B4)
 //満足している間はいい。
+devouring spirits, but
 <$00>
 
 // Ptr: 00000190
 #WRITE(PTR, $000002B0)
 //死者の魂を食らい
+My pains were okay after
 <$00>
 

@@ -9,35 +9,42 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000184)
 //こんなに美味だとは思わなかった。
+would be so delectable...
 <$00>
 
 // Ptr: 0000003C
 #WRITE(PTR, $00000180)
 //生霊のエネルギーが、
+but I didn't think the sensation
 <$00>
 
 // Ptr: 00000054
 #WRITE(PTR, $0000017C)
 //言い方は悪いが・・・
+It might be in bad taste,
 <$00>
 
 // Ptr: 0000006C
 #WRITE(PTR, $00000178)
 //驚いていた。
+a living person.
 <$00>
 
 // Ptr: 0000007C
 #WRITE(PTR, $00000174)
 //自分が大きく満たされたことに
+consuming the spirt of
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $00000170)
 //除霊が終了したとき、わたしは
+full and satisfied after
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $0000016C)
 //生きている霊のエネルギーは強く、
+I did not expect to feel so
 <$00>
 

@@ -9,40 +9,48 @@
 // Ptr: 00000018
 #WRITE(PTR, $000001F8)
 //《見ている男》
+"Stalking Man"
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $000001F4)
 //やってみよう。
+from her. I'll see what happens.
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $000001F0)
 //ほかならぬ彼女の頼みだ。
+spirit before, but it was a request
 <$00>
 
 // Ptr: 00000054
 #WRITE(PTR, $000001EC)
 //生霊を除くのは初めてだけど
+I've never exorcised a living
 <$00>
 
 // Ptr: 00000070
 #WRITE(PTR, $000001E8)
 //おそらく、彼女に対し一方的な　　想いを抱き、執着している男の　　生霊だ。
+This felt more like the spirit of a living man who fixated himself upon her.
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000001E4)
 //死者ではない。
+of a dead person.
 <$00>
 
 // Ptr: 000000CC
 #WRITE(PTR, $000001E0)
 //ここに映っているものは、
+This was not the sensation
 <$00>
 
 // Ptr: 000000E8
 #WRITE(PTR, $000001DC)
 //わたしは、ふしぎな感触を覚えた。
+I felt something peculiar.
 <$00>
 

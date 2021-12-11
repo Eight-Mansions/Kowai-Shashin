@@ -9,6 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000004C4)
 //《買い物に行きたい》
+"Wanting to Go Shopping"
 <$00>
 
 // Ptr: 00000030
@@ -19,66 +20,79 @@
 // Ptr: 00000050
 #WRITE(PTR, $000004BC)
 //しゃがんでいる奥さんを
+hatefully glaring at me."
 <$00>
 
 // Ptr: 00000068
 #WRITE(PTR, $000004B8)
 //すみっこでうらめしそうに
+eyes of the woman squatting,
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $000004B4)
 //自転車は揺れてもいなくて、ただ、
+still. Instead, I caught the
 <$00>
 
 // Ptr: 000000A8
 #WRITE(PTR, $000004B0)
 //音がするだけで、実際には
+happened, but the bikes were
 <$00>
 
 // Ptr: 000000C4
 #WRITE(PTR, $000004AC)
 //そんなとき、そこをのぞくと
+I peaked over once when it just
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $000004A8)
 //大きな金属音が聞こえたりします。
+can hear crashing metal noises.
 <$00>
 
 // Ptr: 00000104
 #WRITE(PTR, $000004A4)
 //もっと大変みたいで、しばらく、
+that thing arrived. Sometimes we
 <$00>
 
 // Ptr: 00000124
 #WRITE(PTR, $000004A0)
 //幽霊になっちゃうと、それが
+But things have gotten worse after
 <$00>
 
 // Ptr: 00000140
 #WRITE(PTR, $0000049C)
 //出すのに苦労するんですけど、
+a harder time getting them out.
 <$00>
 
 // Ptr: 00000160
 #WRITE(PTR, $00000498)
 //上段のひとは、けっこう自転車を
+so people on the higher spots have
 <$00>
 
 // Ptr: 00000180
 #WRITE(PTR, $00000494)
 //うちの自転車置き場は、立体型で、
+Our bike storage is multileveled,
 <$00>
 
 // Ptr: 000001A4
 #WRITE(PTR, $00000490)
 //自転車置き場のほうに消えます。
+the bike area before fading.
 <$00>
 
 // Ptr: 000001C4
 #WRITE(PTR, $0000048C)
 //足音は、階段を降りると
+The footsteps head off towards
 <$00>
 
 // Ptr: 000001DC
@@ -89,55 +103,66 @@
 // Ptr: 000001F4
 #WRITE(PTR, $00000484)
 //サンダルを履いた足だけが
+walking down.
 <$00>
 
 // Ptr: 00000210
 #WRITE(PTR, $00000480)
 //階段の影になっているところを
+only legs with sandals 
 <$00>
 
 // Ptr: 00000230
 #WRITE(PTR, $0000047C)
 //見た人の話では、
+Others have mentioned seeing
 <$00>
 
 // Ptr: 00000244
 #WRITE(PTR, $00000478)
 //誰もいない階段で足音がします。
+stairs at 4am when no one's around.
 <$00>
 
 // Ptr: 00000264
 #WRITE(PTR, $00000474)
 //だいたい、いつも午後４時くらいに
+I keep hearing footsteps on the
 <$00>
 
 // Ptr: 00000288
 #WRITE(PTR, $00000470)
 //でるようになってしまったんです。
+appearing at this apartment.
 <$00>
 
 // Ptr: 000002AC
 #WRITE(PTR, $0000046C)
 //それいらい、このマンションでは
+Ever since then, something's been
 <$00>
 
 // Ptr: 000002CC
 #WRITE(PTR, $00000468)
 //そのまま・・・。
+then she just...
 <$00>
 
 // Ptr: 000002E0
 #WRITE(PTR, $00000464)
 //家から出たところで倒れられて、
+as she left her house,
 <$00>
 
 // Ptr: 00000300
 #WRITE(PTR, $00000460)
 //買い物に行く途中だったそうです。
+way to go shopping. She fell
 <$00>
 
 // Ptr: 00000324
 #WRITE(PTR, $0000045C)
 //『その奥さんが亡くなったのは、
+"I heard that woman died on her
 <$00>
 

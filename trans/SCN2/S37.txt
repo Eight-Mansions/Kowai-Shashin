@@ -9,40 +9,48 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000001E0)
 //わたしは・・・
+exorcising, I'd...
 <$00>
 
 // Ptr: 0000002C
 #WRITE(PTR, $000001DC)
 //除霊を続けなければ、
+If I didn't continue
 <$00>
 
 // Ptr: 00000044
 #WRITE(PTR, $000001D8)
 //常にわたしをさいなむように　　　なっていた。
+screamed to be satisfied.
 <$00>
 
 // Ptr: 00000074
 #WRITE(PTR, $000001D4)
 //以前に感じた不可解な飢餓感が、
+The incomprehensible hunger from earlier
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $000001D0)
 //わたしは除霊をこなし続ける。
+I mindlessly continued my exorcisms.
 <$00>
 
 // Ptr: 000000B4
 #WRITE(PTR, $000001CC)
 //答えがでないまま、
+As I struggled to come to an answer,
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $000001C8)
 //どうしたら良いのだろう。
+right thing to do with my powers.
 <$00>
 
 // Ptr: 000000E4
 #WRITE(PTR, $000001C4)
 //わたしはこの力を、
+I wondered just what was the
 <$00>
 

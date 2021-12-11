@@ -9,35 +9,42 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000228)
 //容赦なく飲み込んでいた。
+a second thought.
 <$00>
 
 // Ptr: 00000034
 #WRITE(PTR, $00000224)
 //この哀れで害のない霊を
+harmless spirit without
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $00000220)
 //しかし、わたしは
+I consumed that pitiful,
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $0000021C)
 //その日行くことのできなかった　　買い物のことを思い、何回も　　　同じ時間を繰り返していた。
+it wanted to go shopping over and over.
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $00000218)
 //ついに乗ることのなかった自転車と
+it just kept repeating that day where
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000214)
 //この霊にはうらみも執念もなく
+It didn't have a grudge or vindication;
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000210)
 //このものは、あまりにも突然に死が訪れたため、それに気づかないで　いただけだった。
+This spirit died so suddenly, it wasn't even aware of its own death.
 <$00>
 

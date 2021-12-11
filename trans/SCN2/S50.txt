@@ -8,131 +8,156 @@
 
 // Ptr: 0000001C
 #WRITE(PTR, $000004CC)
-//《遺言》
+//《Father's Will》
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $000004C8)
 //逃れるすべはない！』
+this is the only way!"
 <$00>
 
 // Ptr: 00000040
 #WRITE(PTR, $000004C4)
 //これ以外に、おまえがやつらから
+There's no escaping them;
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $000004C0)
 //ためらってはいけない。
+Do not hesitate.
 <$00>
 
 // Ptr: 00000078
 #WRITE(PTR, $000004BC)
 //おまえの糧として取り込みなさい。
+consume its power.
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $000004B8)
 //緋織、私の霊と戦い、そして私を
+Hiori, fight my spirit, then
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000004B0)
 //全てを封じこめた。
+sealed in this photograph.
 <$00>
 
 // Ptr: 000000D0
 #WRITE(PTR, $000004AC)
 //私は、この写真に自分の命と力の
+All my life and power is
 <$00>
 
 // Ptr: 000000F0
 #WRITE(PTR, $000004A8)
 //おまえの力となることを選ぶ。
+to abandon my body and give you my power.
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $000004A4)
 //敵となるよりも、自らこの身を捨て
+and become your enemy, I chose
 <$00>
 
 // Ptr: 00000134
 #WRITE(PTR, $000004A0)
 //私は、やつらに喰らわれ、おまえの
+Rather than be consumed by them
 <$00>
 
 // Ptr: 00000158
 #WRITE(PTR, $0000049C)
 //この方法しかなかったのだ。
+escape from these things.
 <$00>
 
 // Ptr: 00000174
 #WRITE(PTR, $00000498)
 //やつらの手から逃れるためには、
+It was all I could do to
 <$00>
 
 // Ptr: 00000194
 #WRITE(PTR, $00000494)
 //私を許して欲しい。
+leaving you alone at such a young age.
 <$00>
 
 // Ptr: 000001A8
 #WRITE(PTR, $00000490)
 //緋織、幼いお前をひとりにした
+Hiori, please forgive me for
 <$00>
 
 // Ptr: 000001C8
 #WRITE(PTR, $0000048C)
 //友人に霊界からの声を伝えよう。
+right moment to have this letter delivered.
 <$00>
 
 // Ptr: 000001E8
 #WRITE(PTR, $00000488)
 //私は、ここで待ち、ときが来たら
+I waited in the spirit world for the
 <$00>
 
 // Ptr: 00000208
 #WRITE(PTR, $00000484)
 //なったとき、やつらは必ず現れる。
+powers became strong enough for those things to appear.
 <$00>
 
 // Ptr: 0000022C
 #WRITE(PTR, $00000480)
 //緋織の力が、ある程度の強さに
+this letter to you when your
 <$00>
 
 // Ptr: 0000024C
 #WRITE(PTR, $0000047C)
 //信頼できる友人にこの封書を託す。
+I asked a trusted friend to give
 <$00>
 
 // Ptr: 00000270
 #WRITE(PTR, $00000474)
 //【緋織の父の遺言】
+"Will of Hiori's Father"
 <$00>
 
 // Ptr: 00000284
 #WRITE(PTR, $00000470)
 //それは・・・父さんだった！
+It... was my father!
 <$00>
 
 // Ptr: 000002A0
 #WRITE(PTR, $0000046C)
 //思わず息を飲んだ。
+picture contained within.
 <$00>
 
 // Ptr: 000002B4
 #WRITE(PTR, $00000468)
 //同封された写真を見たわたしは
+I gasped when I saw the
 <$00>
 
 // Ptr: 000002D4
 #WRITE(PTR, $00000464)
 //古びた封書が届いた。
+letter one day.
 <$00>
 
 // Ptr: 000002EC
 #WRITE(PTR, $00000460)
 //そんなとき、わたしに一通の
+I received an old sealed
 <$00>
 

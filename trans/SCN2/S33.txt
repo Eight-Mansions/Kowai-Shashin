@@ -9,40 +9,48 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000001EC)
 //悩まされているという。
+phenomenons lately.
 <$00>
 
 // Ptr: 00000034
 #WRITE(PTR, $000001E8)
 //たびかさなる奇妙な現象に、
+frequent, strange
 <$00>
 
 // Ptr: 00000050
 #WRITE(PTR, $000001E4)
 //彼女はここのところ、
+She's been experiencing
 <$00>
 
 // Ptr: 00000068
 #WRITE(PTR, $000001E0)
 //個人的に、相談をもちかけて　　　きたのだ。
+for some personal advice.
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $000001DC)
 //数少ない友達と言える女性が、
+call a friend, asked me
 <$00>
 
 // Ptr: 000000B4
 #WRITE(PTR, $000001D8)
 //エージェントの中で、
+and one of the few people I can
 <$00>
 
 // Ptr: 000000CC
 #WRITE(PTR, $000001D4)
 //わたしに仕事を紹介してくれる
+A woman who acts as my agent,
 <$00>
 
 // Ptr: 000000EC
 #WRITE(PTR, $000001D0)
 //今回の依頼は特別だった。
+Today's request was special.
 <$00>
 

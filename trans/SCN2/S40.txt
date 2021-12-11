@@ -9,190 +9,228 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000660)
 //《カラオケボックス》
+"Karaoke Box"
 <$00>
 
 // Ptr: 00000030
 #WRITE(PTR, $0000065C)
 //だったんです。』
+There was only the wall there."
 <$00>
 
 // Ptr: 00000044
 #WRITE(PTR, $00000658)
 //壁・・・・
+of the hallway...
 <$00>
 
 // Ptr: 00000050
 #WRITE(PTR, $00000654)
 //ビルの端っこで、となりは
+our room was at the end
 <$00>
 
 // Ptr: 0000006C
 #WRITE(PTR, $00000650)
 //だって、わたしたちの部屋は
+The problem was that
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $0000064C)
 //ひょうしぬけしました。
+away as we stepped out.
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $00000648)
 //でも、外に出て、わたしたちは
+But, all our tension washed
 <$00>
 
 // Ptr: 000000C0
 #WRITE(PTR, $00000644)
 //なんか、恐いんで、全員で・・・
+We were a bit nervous yelling at someone...
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $0000063C)
 //抗議しにゆくことに決めました。
+decided to have a word.
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000638)
 //ついに頭にきて、わたしたちは、
+Finally we snapped and
 <$00>
 
 // Ptr: 00000120
 #WRITE(PTR, $00000634)
 //するってどういうこと？
+who were trying to sing!?
 <$00>
 
 // Ptr: 00000138
 #WRITE(PTR, $00000630)
 //しかも、歌ってるひとのジャマ
+on top of that bothering those
 <$00>
 
 // Ptr: 00000158
 #WRITE(PTR, $0000062C)
 //カラオケボックスで、歌わないで
+They weren't even singing, and
 <$00>
 
 // Ptr: 00000178
 #WRITE(PTR, $00000628)
 //なんて自己中な！
+into the walls! How rude!!
 <$00>
 
 // Ptr: 0000018C
 #WRITE(PTR, $00000624)
 //暴れて、壁に体当たりしてきたり！
+Soon they were throwing themselves
 <$00>
 
 // Ptr: 000001B0
 #WRITE(PTR, $00000620)
 //笑ったり、しまいにはどすんばたん
+and banging that kept increasing.
 <$00>
 
 // Ptr: 000001D4
 #WRITE(PTR, $0000061C)
 //しかも、なにか大声でしゃべったり
+chatting and laughing, then pounding
 <$00>
 
 // Ptr: 000001F8
 #WRITE(PTR, $00000618)
 //きたんです。
+instead! They were louding
 <$00>
 
 // Ptr: 00000208
 #WRITE(PTR, $00000614)
 //めちゃめちゃうるさくなって
+got incredibly loud
 <$00>
 
 // Ptr: 00000224
 #WRITE(PTR, $00000610)
 //でも、今度は、となりが
+But then next, that room
 <$00>
 
 // Ptr: 0000023C
 #WRITE(PTR, $0000060C)
 //静かめに歌ってました。
+bit quieter.
 <$00>
 
 // Ptr: 00000254
 #WRITE(PTR, $00000608)
 //まあ、しばらくはわたしたちも
+we ended singing a 
 <$00>
 
 // Ptr: 00000274
 #WRITE(PTR, $00000604)
 //ちょっとむかついたけど、
+We were a bit annoyed, but
 <$00>
 
 // Ptr: 00000290
 #WRITE(PTR, $00000600)
 //ここカラオケボックスなのに！
+for Pete's sake!
 <$00>
 
 // Ptr: 000002B0
 #WRITE(PTR, $000005FC)
 //そんなこといったって、
+quiet down! We were at karaoke
 <$00>
 
 // Ptr: 000002C8
 #WRITE(PTR, $000005F8)
 //“うるさい！”ってかんじで。
+It was like they wanted us to
 <$00>
 
 // Ptr: 000002E8
 #WRITE(PTR, $000005F4)
 //どん、どん、って叩かれたんです。
+next to us started pounding on the walls.
 <$00>
 
 // Ptr: 0000030C
 #WRITE(PTR, $000005F0)
 //いきなり、となりの部屋から壁を
+At one point, someone from the room
 <$00>
 
 // Ptr: 0000032C
 #WRITE(PTR, $000005EC)
 //でした。
+out.
 <$00>
 
 // Ptr: 00000338
 #WRITE(PTR, $000005E8)
 //かなりもりあがってきたころ
+and sung our heart's
 <$00>
 
 // Ptr: 00000354
 #WRITE(PTR, $000005E4)
 //ま、とにかく、わたしたちが歌って
+Well, we ignored that part
 <$00>
 
 // Ptr: 00000378
 #WRITE(PTR, $000005E0)
 //戦前から、そこにあるそうです。
+been there since before the war.
 <$00>
 
 // Ptr: 00000398
 #WRITE(PTR, $000005DC)
 //ビルの中で、そのビルは下手すると
+by the station which I think has
 <$00>
 
 // Ptr: 000003BC
 #WRITE(PTR, $000005D8)
 //お店が入っているのは、駅前の古い
+We had to enter an old building
 <$00>
 
 // Ptr: 000003E0
 #WRITE(PTR, $000005D4)
 //行ってみたんです。
+so we decided to try it out.
 <$00>
 
 // Ptr: 000003F4
 #WRITE(PTR, $000005D0)
 //割引券をもらったんで、さっそく
+given coupons since it was new,
 <$00>
 
 // Ptr: 00000414
 #WRITE(PTR, $000005CC)
 //初めてでした。新しくできたお店で
+to that karaoke place. We were
 <$00>
 
 // Ptr: 00000438
 #WRITE(PTR, $000005C8)
 //『そのカラオケボックスに行くのは
+"That was the first time we went
 <$00>
 

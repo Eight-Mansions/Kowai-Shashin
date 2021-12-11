@@ -9,35 +9,42 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000174)
 //強くなっていた。
+has.
 <$00>
 
 // Ptr: 0000002C
 #WRITE(PTR, $00000170)
 //わたしの飢えと比例するように
+much as my insatiable hunger
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $0000016C)
 //しかし、わたしの力は
+But my powers have grown as
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $00000168)
 //なかっただろう。
+have lost against them.
 <$00>
 
 // Ptr: 00000078
 #WRITE(PTR, $00000164)
 //昔のわたしならば、倒せる相手では
+My old self probably would
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $00000160)
 //霊の集合体。
+of spirits strong enough to work space and time.
 <$00>
 
 // Ptr: 000000AC
 #WRITE(PTR, $0000015C)
 //時空をねじまげるほどの力を持った
+This was the work of a collection
 <$00>
 

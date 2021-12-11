@@ -9,55 +9,66 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000210)
 //あなたの後をついてきます。
+...it will have found a new home.
 <$00>
 
 // Ptr: 00000034
 #WRITE(PTR, $0000020C)
 //必ず・・・
+then...
 <$00>
 
 // Ptr: 00000040
 #WRITE(PTR, $00000208)
 //あなたが見ていることを知ったら
+your gaze upon it,
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $00000204)
 //こうした強い悪意を持つ霊は、
+If a malignant spirit notices
 <$00>
 
 // Ptr: 00000080
 #WRITE(PTR, $00000200)
 //けっして動揺しないように。
+much not lose your composure.
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $000001FC)
 //でも、霊の姿を見かけても、
+But, even if you do, you
 <$00>
 
 // Ptr: 000000B8
 #WRITE(PTR, $000001F8)
 //見てしまうこともあるでしょう。
+of what you shouldn't then.
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $000001F4)
 //そんなとき、ふとこうしたものを
+Sometimes, you can catch sight
 <$00>
 
 // Ptr: 000000F8
 #WRITE(PTR, $000001F0)
 //距離が近づく時間帯でもあります。
+and theirs shrinks at twilight.
 <$00>
 
 // Ptr: 0000011C
 #WRITE(PTR, $000001EC)
 //たそがれ時は、この世と霊界との
+The distance between our world
 <$00>
 
 // Ptr: 0000013C
 #WRITE(PTR, $000001E4)
 //【緋織からの除霊結果報告】
+"Hiori's Exorcism Report"
 <$00>
 

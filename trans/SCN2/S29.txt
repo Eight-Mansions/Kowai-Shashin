@@ -9,35 +9,42 @@
 // Ptr: 00000018
 #WRITE(PTR, $000001CC)
 //わたしに食らわれることだった。
+I brought its final moments and consumed it myself.
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $000001C8)
 //この幼い霊を襲った最後の運命は、
+it couldn't satisfy,
 <$00>
 
 // Ptr: 0000005C
 #WRITE(PTR, $000001C4)
 //満たされない空腹に泣き叫ぶ、
+As it screamed in anguish at a hunger
 <$00>
 
 // Ptr: 0000007C
 #WRITE(PTR, $000001C0)
 //貪欲なまでに吸い込んでいたからだった。
+greedily devoured them, trying to feel full.
 <$00>
 
 // Ptr: 000000A4
 #WRITE(PTR, $000001BC)
 //辺りの霊体を呼び寄せ、
+called other spirits from nearby and
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000001B8)
 //すきまから見える顔が巨大なのは、
+The large face visible in the opening
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $000001B4)
 //この霊は、とてもおなかを空かせていた。
+This was a spirit that was starved.
 <$00>
 

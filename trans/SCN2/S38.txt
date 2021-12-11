@@ -9,100 +9,120 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000390)
 //《しがみつくもの》
+"Clinging"
 <$00>
 
 // Ptr: 0000002C
 #WRITE(PTR, $0000038C)
 //姿をしているということでした。』
+small monkey."
 <$00>
 
 // Ptr: 00000050
 #WRITE(PTR, $00000388)
 //背の曲がった小さなサルのような
+curved like that of a
 <$00>
 
 // Ptr: 00000070
 #WRITE(PTR, $00000384)
 //見た人の話では、それは
+Those who saw it said its back
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $00000380)
 //悪さをするのだと。
+grabbing onto people and cars.
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $0000037C)
 //それがひとや車にとりついて
+Rumors of something mischievous
 <$00>
 
 // Ptr: 000000B8
 #WRITE(PTR, $00000378)
 //ここには、へんなものが出る。
+Rumors of strange things coming out.
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $00000374)
 //こんな話も伝わっていたのです。
+of accidents.
 <$00>
 
 // Ptr: 000000F8
 #WRITE(PTR, $00000370)
 //起きるので、地元では
+had an unbelievable amount
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $0000036C)
 //信じられないような事故が
+heard rumors that this road has
 <$00>
 
 // Ptr: 0000012C
 #WRITE(PTR, $00000368)
 //そういえば、この道路は、よく
+Maybe this is related, but I've
 <$00>
 
 // Ptr: 0000014C
 #WRITE(PTR, $00000364)
 //撮れなかったと思います。
+passed me by.
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $00000360)
 //遅かったら、この写真は
+when that car
 <$00>
 
 // Ptr: 00000180
 #WRITE(PTR, $0000035C)
 //その違和感に気づくのが一瞬でも
+moment if I was a moment slower
 <$00>
 
 // Ptr: 000001A0
 #WRITE(PTR, $00000358)
 //高速で走る車とすれ違ったとき、
+I may have missed that fleeting
 <$00>
 
 // Ptr: 000001C0
 #WRITE(PTR, $00000354)
 //たそがれ時でした。
+I saw it.
 <$00>
 
 // Ptr: 000001D4
 #WRITE(PTR, $00000350)
 //それを見たのは、日がかなり落ちた
+It was about twilight when
 <$00>
 
 // Ptr: 000001F8
 #WRITE(PTR, $0000034C)
 //幸運といってよいのでしょうか？
+I saw something impossible?
 <$00>
 
 // Ptr: 00000218
 #WRITE(PTR, $00000348)
 //とっさにシャッターを切れたのは、
+I hit the shutter the moment
 <$00>
 
 // Ptr: 0000023C
 #WRITE(PTR, $00000344)
 //『ありえないものを見たとき、
+"Was it a blessing or a curse that
 <$00>
 

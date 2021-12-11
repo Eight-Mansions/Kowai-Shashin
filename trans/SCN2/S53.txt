@@ -9,55 +9,66 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000002B8)
 //そして、異界への扉が開いた。
+Then, the door to the other world opened.
 <$00>
 
 // Ptr: 0000003C
 #WRITE(PTR, $000002B0)
 //わたしに向かって押し寄せてくる。
+its head towards me.
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $000002AC)
 //そのいやしい妄執が、いま
+That vulgar craving now turned
 <$00>
 
 // Ptr: 0000007C
 #WRITE(PTR, $000002A8)
 //けだもののような欲望と飢え　　　だけだ。
+animalistic desire to devour.
 <$00>
 
 // Ptr: 000000A8
 #WRITE(PTR, $000002A4)
 //いまのかれらを動かしているのは
+All that drove it forward was an
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $000002A0)
 //人のこころを失くしたものたち。
+power with no human heart left of its own.
 <$00>
 
 // Ptr: 000000E8
 #WRITE(PTR, $0000029C)
 //より大きな力を得ようとするあまり
+It came in search of a greater
 <$00>
 
 // Ptr: 0000010C
 #WRITE(PTR, $00000298)
 //わたしの血に連なるものたち。
+The demon I was related to by blood.
 <$00>
 
 // Ptr: 0000012C
 #WRITE(PTR, $00000294)
 //最大の悪霊がやってくる。
+The true demon had arrived.
 <$00>
 
 // Ptr: 00000148
 #WRITE(PTR, $00000290)
 //不意に強くなった。
+mansion had grown.
 <$00>
 
 // Ptr: 0000015C
 #WRITE(PTR, $0000028C)
 //屋敷の中にたちこめる気配が
+The presence that enshrouded the
 <$00>
 

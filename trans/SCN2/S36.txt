@@ -9,70 +9,84 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000324)
 //連絡はないだろう・・・
+ever contact me again...
 <$00>
 
 // Ptr: 00000030
 #WRITE(PTR, $00000320)
 //もう、彼女からわたしに
+I can't imagine she'll
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $0000031C)
 //電話は切れた。
+I hung up.
 <$00>
 
 // Ptr: 00000058
 #WRITE(PTR, $00000314)
 //まさか、そんな・・・
+No, it couldn't be...
 <$00>
 
 // Ptr: 00000070
 #WRITE(PTR, $00000310)
 //わたしがあの男の生霊を除霊した　のと、ちょうど同じ日だった。
+at just the same time as my exorcism.
 <$00>
 
 // Ptr: 000000B0
 #WRITE(PTR, $0000030C)
 //男が死んだと思われる日は、
+His unnatural death occurred
 <$00>
 
 // Ptr: 000000CC
 #WRITE(PTR, $00000308)
 //家で変死しているのが見つかった、と。
+found dead in his home.
 <$00>
 
 // Ptr: 000000F4
 #WRITE(PTR, $00000304)
 //同時期に、彼女の知り合いの男性が
+A man she knew had just been
 <$00>
 
 // Ptr: 00000118
 #WRITE(PTR, $00000300)
 //しかし、彼女は続けた。
+But, she continued.
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $000002FC)
 //うれしくおもった。
+that I was useful to her.
 <$00>
 
 // Ptr: 00000144
 #WRITE(PTR, $000002F8)
 //わたしは彼女の役に立てたことを
+I felt joy at the idea
 <$00>
 
 // Ptr: 00000164
 #WRITE(PTR, $000002F4)
 //ぴたりとおさまったと言う。
+harassing her had settled.
 <$00>
 
 // Ptr: 00000180
 #WRITE(PTR, $000002F0)
 //彼女を悩ませていた怪異は、
+phone call. The spectre
 <$00>
 
 // Ptr: 0000019C
 #WRITE(PTR, $000002EC)
 //数日後、電話がかかってきた。
+A few days later, I received a
 <$00>
 

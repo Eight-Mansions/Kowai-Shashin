@@ -9,85 +9,102 @@
 // Ptr: 00000018
 #WRITE(PTR, $0000031C)
 //《落石》
+"Rockslide"
 <$00>
 
 // Ptr: 00000024
 #WRITE(PTR, $00000318)
 //どれくらい歩けるのでしょうか？』
+person walk for?"
 <$00>
 
 // Ptr: 00000048
 #WRITE(PTR, $00000314)
 //でも、首を失った人間は、ふつう
+But, how long can a headless
 <$00>
 
 // Ptr: 00000068
 #WRITE(PTR, $00000310)
 //いいます。
+decapitated.
 <$00>
 
 // Ptr: 00000074
 #WRITE(PTR, $0000030C)
 //それぞれの部位は生きていると
+live briefly after being
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $00000308)
 //首と体が切り離されても、しばらく
+I realize that a head can
 <$00>
 
 // Ptr: 000000B8
 #WRITE(PTR, $00000304)
 //いうものだったのでしょうか。
+omen for what was to come.
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $00000300)
 //友人に起こった、出来事の予兆と
+but I wonder if it was an
 <$00>
 
 // Ptr: 000000F8
 #WRITE(PTR, $000002FC)
 //入山前に撮ったこの写真は
+before we climbed recently,
 <$00>
 
 // Ptr: 00000114
 #WRITE(PTR, $000002F8)
 //友人の以前からの落石恐怖と
+My friend took this photo
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $000002F4)
 //よく私に話していたものです。
+me in a paranoid voice.
 <$00>
 
 // Ptr: 00000150
 #WRITE(PTR, $000002F0)
 //いかにもおびえた口調で彼は
+without a sound," he'd tell
 <$00>
 
 // Ptr: 0000016C
 #WRITE(PTR, $000002EC)
 //音を立てないで落ちてくるなどと
+on melting snow could fall
 <$00>
 
 // Ptr: 0000018C
 #WRITE(PTR, $000002E8)
 //春先、雪渓の上に生じる落石は
+"In the spring, large rocks sitting
 <$00>
 
 // Ptr: 000001AC
 #WRITE(PTR, $000002E4)
 //恐さについて語っていました。
+the scary possibilities of rockslides.
 <$00>
 
 // Ptr: 000001CC
 #WRITE(PTR, $000002E0)
 //いたその友人は、以前から落石の
+with would often worry and bring up
 <$00>
 
 // Ptr: 000001EC
 #WRITE(PTR, $000002DC)
 //『私と一緒に山登りを趣味にして
+"A friend who I liked to rockclimb
 <$00>
 
