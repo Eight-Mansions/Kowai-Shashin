@@ -8,7 +8,8 @@
 
 // Ptr: 0000001C
 #WRITE(PTR, $000004CC)
-//《Father's Will》
+//《遺言》
+Father's Will
 <$00>
 
 // Ptr: 00000028
