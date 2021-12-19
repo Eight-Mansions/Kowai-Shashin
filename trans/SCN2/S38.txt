@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000390)
 //s‚µ‚ª‚İ‚Â‚­‚à‚Ìt
-"Clinging"
+(Clinging)
 <$00>
 
 // Ptr: 0000002C

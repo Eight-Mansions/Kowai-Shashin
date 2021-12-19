@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000760)
 //Åsâ‘ë©Åt
-"Bouquet"
+(Bouquet)
 <$00>
 
 // Ptr: 00000024

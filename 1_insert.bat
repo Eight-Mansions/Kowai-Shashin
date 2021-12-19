@@ -3,7 +3,15 @@ del /q /s ins\*
 xcopy /e orig\* ins
 
 :: Insert script-specific images before inserting the translations
+python tools\KSImageCompressor.py graphics\S00 ins\SCN\S00.DAT ins\SCN\S00.DAT
+python tools\KSImageCompressor.py graphics\S01 ins\SCN\S01.DAT ins\SCN\S01.DAT
+python tools\KSImageCompressor.py graphics\S09 ins\SCN\S09.DAT ins\SCN\S09.DAT
 python tools\KSImageCompressor.py graphics\S17 ins\SCN\S17.DAT ins\SCN\S17.DAT
+python tools\KSImageCompressor.py graphics\S25 ins\SCN\S25.DAT ins\SCN\S25.DAT
+python tools\KSImageCompressor.py graphics\S33 ins\SCN2\S33.DAT ins\SCN2\S33.DAT
+python tools\KSImageCompressor.py graphics\S37 ins\SCN2\S37.DAT ins\SCN2\S37.DAT
+python tools\KSImageCompressor.py graphics\S45 ins\SCN2\S45.DAT ins\SCN2\S45.DAT
+python tools\KSImageCompressor.py graphics\S53 ins\SCN2\S53.DAT ins\SCN2\S53.DAT
 
 echo "Files copied, inserting"
 echo  format\SCN\S00.txt >> error.txt

@@ -138,5 +138,5 @@ dir {
     xafile LOGO.XA
     xafile MIXED8S.XA
   }
-  file 3MIN.
+  file 3MIN_
 }

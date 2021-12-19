@@ -59,12 +59,15 @@ with open(original_archive, "rb") as archive:
 
     # Iterate through the images and add them to the archive
     for index, pointer in enumerate(image_pointers):
-        # The decompressor outputs in the format of "TITLE.DAT-0x25e50.TIM"
-        filename = os.path.basename(archive.name) + "-" + str(hex(pointer)) + ".TIM"
+        # The decompressor outputs in the format of "TITLE.DAT-0x25e50.tim"
+        filename = os.path.basename(archive.name) + "-" + str(hex(pointer)) + ".tim"
         pointer_image = Path(input_directory) / filename
 
+        uncompressed_filename = os.path.basename(archive.name) + "-" + str(hex(pointer)) + ".uncompressed"
+        uncompressed_pointer_image = Path(input_directory) / uncompressed_filename
+
         # If this image is not one we've translated, add it as-is
-        if not pointer_image.is_file():
+        if not pointer_image.is_file() and not uncompressed_pointer_image.is_file():
             pointer_end = len(raw_hex)
             if index < len(image_pointers) - 1:
                 pointer_end = image_pointers[index + 1]
@@ -73,7 +76,8 @@ with open(original_archive, "rb") as archive:
             output_bytes += bytes.fromhex(image_bytes)
 
         # Recompress translated images
-        else:
+        elif pointer_image.is_file():
+            print("Found compressed image to reinsert: " + filename)
             with open(pointer_image, "rb") as image:
                 image_hex = image.read().hex()
                 compressed_bytes = lzss.compress(bytes.fromhex(image_hex))
@@ -95,6 +99,14 @@ with open(original_archive, "rb") as archive:
 
                 output_bytes += compressed_bytes
                 output_bytes += alignment_bytes
+
+        # Add any uncompressed images back in
+        elif uncompressed_pointer_image.is_file():
+            print("Found uncompressed image to reinsert: " + uncompressed_filename)
+            with open(uncompressed_pointer_image, "rb") as image:
+                image_hex = image.read().hex()
+                output_pointers.append(len(output_bytes) + image_data_start)
+                output_bytes += bytes.fromhex(image_hex)
 
     # Create the output file and write out the header
     with open(output_archive, "wb") as output:

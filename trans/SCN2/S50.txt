@@ -9,7 +9,7 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000004CC)
 //Åsà‚åæÅt
-Father's Will
+(Will)
 <$00>
 
 // Ptr: 00000028

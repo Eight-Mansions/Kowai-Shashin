@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000002CC)
 //sŠç”¼•ªt
-"Floating Face"
+(Floating Face)
 <$00>
 
 // Ptr: 00000024

@@ -9,7 +9,7 @@
 // Ptr: 0000001C
 #WRITE(PTR, $00000504)
 //《優二》
-<name>
+(Yuuji)
 <$00>
 
 // Ptr: 00000028
@@ -159,7 +159,7 @@ I'm his aunt and we
 // Ptr: 000002F8
 #WRITE(PTR, $000004A0)
 //覚えていらっしゃいますか？
-do you remember <name>?
+do you remember Katou Yuuji?
 <$00>
 
 // Ptr: 00000314

@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000001F8)
 //sŒ©‚Ä‚¢‚é’jt
-"Stalking Man"
+(Stalker)
 <$00>
 
 // Ptr: 00000028

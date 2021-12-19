@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $0000031C)
 //s—Ît
-"Rockslide"
+(Rockslide)
 <$00>
 
 // Ptr: 00000024

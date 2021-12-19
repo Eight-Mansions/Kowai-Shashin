@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000344)
 //ÅsåÑä‘Ç…Ç¢ÇÈÇ‡ÇÃÅt
-"In the Gap"
+(In the Gap)
 <$00>
 
 // Ptr: 0000002C

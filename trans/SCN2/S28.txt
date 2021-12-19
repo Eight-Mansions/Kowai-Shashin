@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000003A4)
 //《カラスの声》
-Crow Call
+(Crow Call)
 <$00>
 
 // Ptr: 00000028

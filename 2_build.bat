@@ -3,15 +3,18 @@ del cd\working\DATA\SCN\*.DAT
 del cd\working\DATA\SCN2\*.DAT
 del exe\SLPS_034.54
 
-:: Copy the new DAT files into the Working directory
+:: Copy the new DAT files into the working directory
 xcopy /e /y ins\* cd\working\DATA\
 
 :: Compress and copy the translated images in
 python tools\KSImageCompressor.py graphics\TITLE graphics\orig\TITLE.DAT graphics\TITLE.DAT
 python tools\KSImageCompressor.py graphics\ACTION graphics\orig\ACTION.DAT graphics\ACTION.DAT
-:: python tools\KSImageCompressor.py graphics\S17 ins\SCN\S17.DAT cd\working\DATA\SCN\S17.DAT
+python tools\KSImageCompressor.py graphics\STG01 graphics\orig\STG01.DAT graphics\STG01.DAT
+python tools\KSImageCompressor.py graphics\ALBUM graphics\orig\ALBUM.DAT graphics\ALBUM.DAT
+
 copy graphics\TITLE.DAT cd\working\DATA\TITLE.DAT
 copy graphics\ACTION.DAT cd\working\DATA\ACTION.DAT
+copy graphics\STG01.DAT cd\working\DATA\STG\STG01.DAT
 
 :: Build the new exe using the assembly file
 copy exe\orig\SLPS_034.54 exe\SLPS_034.54

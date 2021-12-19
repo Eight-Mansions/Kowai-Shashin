@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000004C4)
 //ÅsîÉÇ¢ï®Ç…çsÇ´ÇΩÇ¢Åt
-"Wanting to Go Shopping"
+(Shopping Wish)
 <$00>
 
 // Ptr: 00000030

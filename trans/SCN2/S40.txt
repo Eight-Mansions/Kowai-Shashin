@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000660)
 //《カラオケボックス》
-"Karaoke Box"
+(Karaoke Box)
 <$00>
 
 // Ptr: 00000030
