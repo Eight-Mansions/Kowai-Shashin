@@ -33,13 +33,13 @@ But, after seeing this photo,
 // Ptr: 00000084
 #WRITE(PTR, $000002E4)
 //ÇµÇ©ÇΩÇ»Ç¢ÇÊÇ»Ç¡ÇƒÅA
-a piece of crap.
+piece of crap.
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $000002E0)
 //Ç…Ç®Ç¢Ç‡ÅAÇøÇÂÇ¡Ç∆ÇÆÇÁÇ¢ÇÕ
-I expected it to be a bit of
+I expected it to be a
 <$00>
 
 // Ptr: 000000B8
@@ -51,7 +51,7 @@ I mean, the car was cheap, so
 // Ptr: 000000DC
 #WRITE(PTR, $000002D8)
 //Ç‚Ç»êUìÆÇ≈ÇµÇΩÇÀÅB
-was trying to drag the car    away.
+was trying to drag the car away.
 <$00>
 
 // Ptr: 000000F0

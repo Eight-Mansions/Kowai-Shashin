@@ -9,13 +9,13 @@
 // Ptr: 00000018
 #WRITE(PTR, $0000021C)
 //³‰ğ‚Å‚µ‚½‚ËB
-brige was the right call.
+was the right call.
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $00000218)
 //V‹´‚Ìæ‚És‚©‚ê‚È‚©‚Á‚½‚Ì‚ÍA
-Not getting any closer to the
+Not going past the bridge
 <$00>
 
 // Ptr: 00000048
@@ -33,7 +33,7 @@ energy and drags them into
 // Ptr: 00000080
 #WRITE(PTR, $0000020C)
 //‹ßŠñ‚é‚à‚Ì‚ÉŒÄ‚Ñ‚©‚¯A©•ª‚ª±‚Ş
-it with it's strong evil
+it with its destructive
 <$00>
 
 // Ptr: 000000A4
@@ -51,7 +51,7 @@ by sheer hatred.
 // Ptr: 000000D4
 #WRITE(PTR, $00000200)
 //‰…”O‚¾‚¯‚ª‹­‚­ˆç‚Á‚Ä‚¢‚Á‚½‚Ì‚Å
-It must have stayed alive by
+It must have stayed alive
 <$00>
 
 // Ptr: 000000F4
@@ -75,6 +75,6 @@ This was an ancient and
 // Ptr: 00000148
 #WRITE(PTR, $000001EC)
 //y”êD‚Ìœ—ìŒ‹‰Ê•ñz
-"Hiori's Exorcism Report"
+Hiori's Exorcism Report:
 <$00>
 

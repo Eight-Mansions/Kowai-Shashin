@@ -14,7 +14,7 @@
 // Ptr: 0000002C
 #WRITE(PTR, $000002AC)
 //—ì‚Æ‘Î˜b‚·‚é¢ŠE‚æ‚è‚à–¢’m‚Å
-than the worlds of spirits...
+than the world of spirits...
 <$00>
 
 // Ptr: 0000004C

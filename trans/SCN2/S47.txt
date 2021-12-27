@@ -75,37 +75,37 @@ it looked like he fell in relief.
 // Ptr: 00000170
 #WRITE(PTR, $00000334)
 //そこを抜け切ったところで、友人は
-Just as he rushed through, 
+risk. Just as he rushed through,
 <$00>
 
 // Ptr: 00000194
 #WRITE(PTR, $00000330)
 //落石が多い危険箇所である谷底。
-That place had a big rockslide risk.
+That place had a big rockslide
 <$00>
 
 // Ptr: 000001B4
 #WRITE(PTR, $0000032C)
 //シルエットが見えるだけでした。
-front of me over the scree slope.
+walking quickly in front of<$0A>me over the scree slope.
 <$00>
 
 // Ptr: 000001D4
 #WRITE(PTR, $00000328)
 //私には、前を早足で歩く友人の
-of my friend walking quickly in
+silhouette of my friend
 <$00>
 
 // Ptr: 000001F4
 #WRITE(PTR, $00000324)
 //長い谷底のガレ場を横切るあいだ
-I could only see the silhouette
+in. I could only see the
 <$00>
 
 // Ptr: 00000214
 #WRITE(PTR, $00000320)
 //『その日は、深い霧が出ており、
-"That day, a dense fog rolled in.
+"That day, a dense fog rolled
 <$00>
 
 // Ptr: 00000234

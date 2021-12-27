@@ -21,25 +21,25 @@ underneath and saw this."
 // Ptr: 00000040
 #WRITE(PTR, $000002C4)
 //そこに行き、下をのぞきこんだら、
-over. I took a quick look
+went over. I took a quick look
 <$00>
 
 // Ptr: 00000064
 #WRITE(PTR, $000002C0)
 //あのとき、友人の制止をふりきって
-friend's warnings and went
+off my friend's warnings and
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $000002BC)
 //覚えています。
-broken bridge. I shook off my
+broken bridge nearby. I shook
 <$00>
 
 // Ptr: 00000098
 #WRITE(PTR, $000002B8)
 //すごく行ってみたくなったことを
-see what was beyond that
+see what was beyond the
 <$00>
 
 // Ptr: 000000B8
@@ -69,19 +69,19 @@ Once I saw the photo, I felt
 // Ptr: 00000138
 #WRITE(PTR, $000002A4)
 //泳ぐ人なんか居ませんでした。
-when no one should be swimming.
+should be in the water.
 <$00>
 
 // Ptr: 00000158
 #WRITE(PTR, $000002A0)
 //この写真を撮ったとき、季節は冬。
-this photo during the winter
+it during the winter when no one
 <$00>
 
 // Ptr: 0000017C
 #WRITE(PTR, $0000029C)
 //鮮明に映ってますけど。
-this photo. However, I took
+this photo. However, I shot
 <$00>
 
 // Ptr: 00000194

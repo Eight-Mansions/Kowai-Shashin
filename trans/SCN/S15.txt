@@ -87,19 +87,19 @@ And yes, chances are they've
 // Ptr: 000001B4
 #WRITE(PTR, $00000320)
 //事故の手助けをするのです。
-accidents that wouldn't        normally happen.
+wouldn't normally happen.
 <$00>
 
 // Ptr: 000001D0
 #WRITE(PTR, $0000031C)
 //そして、普通ではおきないような
-Sometimes they'll help cause
+help cause accidents that
 <$00>
 
 // Ptr: 000001F0
 #WRITE(PTR, $00000318)
 //ある場所に、よくひそんでいます。
-places, like these ones were.
+places like this. They'll often
 <$00>
 
 // Ptr: 00000214
@@ -111,6 +111,6 @@ Ghosts often lurk in dangerous
 // Ptr: 00000238
 #WRITE(PTR, $0000030C)
 //【緋織からの除霊結果報告】
-(Hiori's Exorcism Report)
+Hiori's Exorcism Report:
 <$00>
 

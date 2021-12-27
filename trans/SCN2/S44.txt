@@ -39,13 +39,13 @@ still haunted me...
 // Ptr: 000000A0
 #WRITE(PTR, $000002D4)
 //生きた魂を吸収したときの
-man of his life
+that man of his life
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000002D0)
 //命を奪ってしまった男性の、
-satisfaction from robbing that
+satisfaction from robbing
 <$00>
 
 // Ptr: 000000D8
@@ -75,13 +75,13 @@ become?
 // Ptr: 0000013C
 #WRITE(PTR, $000002BC)
 //どこまで強くなるのか、
-terrifying urges
+these terrifying urges
 <$00>
 
 // Ptr: 00000154
 #WRITE(PTR, $000002B8)
 //でも、わたしをさいなむこの飢えが
-just how strong would these
+just how strong would
 <$00>
 
 // Ptr: 00000178

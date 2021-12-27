@@ -33,19 +33,19 @@ Those who saw it said its back
 // Ptr: 00000088
 #WRITE(PTR, $00000380)
 //悪さをするのだと。
-grabbing onto people and cars.
+onto people and cars.
 <$00>
 
 // Ptr: 0000009C
 #WRITE(PTR, $0000037C)
 //それがひとや車にとりついて
-Rumors of something mischievous
+things coming out and grabbing
 <$00>
 
 // Ptr: 000000B8
 #WRITE(PTR, $00000378)
 //ここには、へんなものが出る。
-Rumors of strange things coming out.
+Rumors of strange, mischievous
 <$00>
 
 // Ptr: 000000D8
@@ -81,13 +81,13 @@ passed me by.
 // Ptr: 00000168
 #WRITE(PTR, $00000360)
 //遅かったら、この写真は
-when that car
+slower when that car
 <$00>
 
 // Ptr: 00000180
 #WRITE(PTR, $0000035C)
 //その違和感に気づくのが一瞬でも
-moment if I was a moment slower
+moment if I was a second
 <$00>
 
 // Ptr: 000001A0
@@ -111,18 +111,18 @@ It was about twilight when
 // Ptr: 000001F8
 #WRITE(PTR, $0000034C)
 //幸運といってよいのでしょうか？
-I saw something impossible?
+moment I saw something<$0A>impossible?
 <$00>
 
 // Ptr: 00000218
 #WRITE(PTR, $00000348)
 //とっさにシャッターを切れたのは、
-I hit the shutter the moment
+that I hit the shutter the
 <$00>
 
 // Ptr: 0000023C
 #WRITE(PTR, $00000344)
 //『ありえないものを見たとき、
-"Was it a blessing or a curse that
+"Was it a blessing or a curse
 <$00>
 

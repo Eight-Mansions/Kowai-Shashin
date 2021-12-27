@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000001EC)
 //‰Ê‚½‚·‚±‚Æ‚ª‚ ‚é‚Ì‚Å‚·B
-worlds and act like windows    to us.
+worlds and act like windows to us.
 <$00>
 
 // Ptr: 00000034
@@ -63,6 +63,6 @@ Lonely spirits with nowhere
 // Ptr: 00000128
 #WRITE(PTR, $000001C4)
 //y”êD‚©‚ç‚Ìœ—ìŒ‹‰Ê•ñz
-(Hiori's Exorcism Report)
+Hiori's Exorcism Report:
 <$00>
 

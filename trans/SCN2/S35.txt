@@ -33,7 +33,7 @@ a living person.
 // Ptr: 0000007C
 #WRITE(PTR, $00000174)
 //Ž©•ª‚ª‘å‚«‚­–ž‚½‚³‚ê‚½‚±‚Æ‚É
-consuming the spirt of
+consuming the spirit of
 <$00>
 
 // Ptr: 0000009C

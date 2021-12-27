@@ -9,31 +9,31 @@
 // Ptr: 00000018
 #WRITE(PTR, $00000250)
 //しれません。
-easy to live inside of.
+transmission tower could be easy<$0A>to live inside of.
 <$00>
 
 // Ptr: 00000028
 #WRITE(PTR, $0000024C)
 //命が宿りやすいのかも
-transmission tower could be
+electricity like the
 <$00>
 
 // Ptr: 00000040
 #WRITE(PTR, $00000248)
 //高圧電流を経由する鉄塔には、
-strong electricity like the
+something with strong
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $00000244)
 //いわゆる電気と同じものですから、
-impulses, so something with
+electrical impulses, so
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $00000240)
 //生物の体を動かす力は、生体電気、
-Our brains are run by electrical
+Our brains are run by
 <$00>
 
 // Ptr: 000000A8
@@ -81,6 +81,6 @@ The energy I felt from this
 // Ptr: 00000168
 #WRITE(PTR, $0000021C)
 //【緋織からの除霊結果報告】
-"Hiori's Exorcism Report"
+Hiori's Exorcism Report:
 <$00>
 

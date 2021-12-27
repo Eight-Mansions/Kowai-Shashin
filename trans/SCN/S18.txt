@@ -27,19 +27,19 @@ In this photo of tower M4,
 // Ptr: 00000068
 #WRITE(PTR, $00000344)
 //ひびいたりするものです。
-echoes in the wind.
+laughter echoes in the wind.
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $00000340)
 //風の通る音が笑い声のように
-and a sound like laughter
+pleasure and a sound like
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $0000033C)
 //鉄骨が喜ぶようにふるえたり、
-bars seem to shake with pleasure
+bars seem to shake with
 <$00>
 
 // Ptr: 000000C0
@@ -51,25 +51,25 @@ After an accident, those steel
 // Ptr: 000000E0
 #WRITE(PTR, $00000334)
 //事故を起こすものがあるのです。
-We've had shocks and falling accidents as well.
+We've had shocks and falling<$0A>accidents as well.
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000330)
 //あるかのように、感電や、落下の
-old tower has life and a will of its own.
+that old tower has life and a will<$0A>of its own.
 <$00>
 
 // Ptr: 00000120
 #WRITE(PTR, $0000032C)
 //しばしば、それ自体に意思や生命が
-it feels like something inside that
+it feels like something inside
 <$00>
 
 // Ptr: 00000144
 #WRITE(PTR, $00000328)
 //しれませんが、古い鉄塔のなかには
-nonsense, but now and then
+nonsense, but now and then,
 <$00>
 
 // Ptr: 00000168
@@ -81,19 +81,19 @@ This might sound like utter
 // Ptr: 00000188
 #WRITE(PTR, $00000320)
 //ぶちあたります。
-beyond a person's power.
+are beyond a person's power.
 <$00>
 
 // Ptr: 0000019C
 #WRITE(PTR, $0000031C)
 //ひとの力のおよばないものに
-I run into things that are
+then, I run into things that
 <$00>
 
 // Ptr: 000001B8
 #WRITE(PTR, $00000318)
 //自信がありますが、時折こうした、
-when up that high, but sometimes
+when up that high, but now and
 <$00>
 
 // Ptr: 000001DC

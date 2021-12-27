@@ -15,13 +15,13 @@ several bloodthirsty beasts.
 // Ptr: 00000034
 #WRITE(PTR, $00000214)
 //獲物の群れを目にした
-before the joyous eyes of
+before the rapturous eyes of
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $00000210)
 //わたしが感じたのは、
-I felt like prey helpless
+I felt like prey, helpless
 <$00>
 
 // Ptr: 00000064
@@ -33,7 +33,7 @@ When I fought those spirits,
 // Ptr: 0000007C
 #WRITE(PTR, $00000208)
 //亡者たちの集合体。
-pulls up several of the dead   with it.
+pulls up several of the dead<$0A>with it.
 <$00>
 
 // Ptr: 00000090
@@ -51,6 +51,6 @@ the dead like to gather.
 // Ptr: 000000EC
 #WRITE(PTR, $000001FC)
 //この建物の下には亡者たちの集う　場があり、そしてこのエレベータは
-This elevator happens to run   right into a spot where
+This elevator happens to run<$0A>right into a spot where
 <$00>
 

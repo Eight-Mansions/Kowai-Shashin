@@ -15,13 +15,13 @@
 // Ptr: 00000028
 #WRITE(PTR, $000001F4)
 //やってみよう。
-from her. I'll see what happens.
+request from her.<$0A>I'll see what happens.
 <$00>
 
 // Ptr: 00000038
 #WRITE(PTR, $000001F0)
 //ほかならぬ彼女の頼みだ。
-spirit before, but it was a request
+spirit before, but it was a
 <$00>
 
 // Ptr: 00000054
@@ -33,13 +33,13 @@ I've never exorcised a living
 // Ptr: 00000070
 #WRITE(PTR, $000001E8)
 //おそらく、彼女に対し一方的な　　想いを抱き、執着している男の　　生霊だ。
-This felt more like the spirit of a living man who fixated himself upon her.
+like the spirit of a living man<$0A>who fixated himself upon her.
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000001E4)
 //死者ではない。
-of a dead person.
+of a dead person. This felt more
 <$00>
 
 // Ptr: 000000CC

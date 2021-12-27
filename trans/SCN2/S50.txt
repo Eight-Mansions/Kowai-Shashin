@@ -57,7 +57,7 @@ All my life and power is
 // Ptr: 000000F0
 #WRITE(PTR, $000004A8)
 //おまえの力となることを選ぶ。
-to abandon my body and give you my power.
+to abandon my body and give you<$0A>my power.
 <$00>
 
 // Ptr: 00000110
@@ -75,19 +75,19 @@ Rather than be consumed by them
 // Ptr: 00000158
 #WRITE(PTR, $0000049C)
 //この方法しかなかったのだ。
-escape from these things.
+to escape from these things.
 <$00>
 
 // Ptr: 00000174
 #WRITE(PTR, $00000498)
 //やつらの手から逃れるためには、
-It was all I could do to
+young age. It was all I could do
 <$00>
 
 // Ptr: 00000194
 #WRITE(PTR, $00000494)
 //私を許して欲しい。
-leaving you alone at such a young age.
+leaving you alone at such a
 <$00>
 
 // Ptr: 000001A8
@@ -99,19 +99,19 @@ Hiori, please forgive me for
 // Ptr: 000001C8
 #WRITE(PTR, $0000048C)
 //友人に霊界からの声を伝えよう。
-right moment to have this letter delivered.
+the right moment.
 <$00>
 
 // Ptr: 000001E8
 #WRITE(PTR, $00000488)
 //私は、ここで待ち、ときが来たら
-I waited in the spirit world for the
+I waited in the spirit world for
 <$00>
 
 // Ptr: 00000208
 #WRITE(PTR, $00000484)
 //なったとき、やつらは必ず現れる。
-powers became strong enough for those things to appear.
+powers became strong enough<$0A>for those things to appear.
 <$00>
 
 // Ptr: 0000022C

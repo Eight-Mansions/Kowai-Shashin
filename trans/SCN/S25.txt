@@ -33,7 +33,7 @@ like a starving animal.
 // Ptr: 00000078
 #WRITE(PTR, $0000036C)
 //わたしの足は勝手に書斎へと　　　向かう。
-My legs dragged me to the      library on their own,
+My legs dragged me to the<$0A>library on their own,
 <$00>
 
 // Ptr: 000000A4
@@ -81,7 +81,7 @@ Then one morning, I awoke
 // Ptr: 00000168
 #WRITE(PTR, $0000034C)
 //ぼんやりと過ごす日が続いていた。
-just lazed about for a few     days.
+just lazed about for a few days.
 <$00>
 
 // Ptr: 0000018C
@@ -93,6 +93,6 @@ I took a break from work and
 // Ptr: 000001A8
 #WRITE(PTR, $00000344)
 //優二くんの件以来、わたしは呆然としてしまったのだと思う。
-I've been in a daze since the  incident with Yuuji-kun.
+I've been in a daze since the<$0A>incident with Yuuji.
 <$00>
 

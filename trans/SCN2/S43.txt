@@ -39,12 +39,12 @@ My old self probably would
 // Ptr: 0000009C
 #WRITE(PTR, $00000160)
 //—ì‚ÌW‡‘ÌB
-of spirits strong enough to work space and time.
+collection of spirits strong<$0A>enough to warp space and time.
 <$00>
 
 // Ptr: 000000AC
 #WRITE(PTR, $0000015C)
 //‹ó‚ğ‚Ë‚¶‚Ü‚°‚é‚Ù‚Ç‚Ì—Í‚ğ‚Á‚½
-This was the work of a collection
+This was the work of a
 <$00>
 

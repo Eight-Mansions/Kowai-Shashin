@@ -245,42 +245,24 @@ Rumble
 <$00>
 
 #JMP($000022EC)
-//"アルバム"の"
-New album 
-<$00>
-
-#JMP($00002335)
-//"アルバム"の"
-New album 
-<$00>
-
-#JMP($00002381)
-//"アルバム"の"
-New album 
-<$00>
-
-#JMP($000022FD)
-//緋織のマル秘写真集"が
+//"アルバム"の"緋織のマル秘写真集"が
 //　　　見られるようになりました
-"Hiori's Secret Photos"
-<$04><$0A>
-is now open.
+New album "<$02><$00><$80><$80>Hiori's Secret Photos
+<$04>"<$0A>is now open.
 <$00>
 
-#JMP($00002346)
-//緋織ポートレート"が
+#JMP($00002334)
+//"アルバム"の"緋織ポートレート"が
 //　　　見られるようになりました
-"Hiori's Portraits"
-<$04><$0A>
-is now open.
+New album "<$02><$00><$80><$80>Hiori's Portraits
+<$04>"<$0A>is now open.
 <$00>
 
-#JMP($00002392)
-//心霊写真館"が
+#JMP($0000237C)
+//"アルバム"の""心霊写真館"が
 //　　全て見られるようになりました
-"Spirit Photos"
-<$04><$0A>
-is now complete.
+Album "<$02><$00><$80><$80>Spirit Photos
+<$04>"<$0A>is now complete.
 <$00>
 
 #JMP($00003BF8)
@@ -313,6 +295,11 @@ Album 1: Spirit Photos
 Zoom<$20><$01><$04>Menu
 <$00>
 
+#JMP($00003B94)
+//でメニューへ
+<$01><$04> Menu
+<$00>
+
 #JMP($00003BA6)
 //で縮小
 Return
@@ -335,7 +322,7 @@ Peek-a-Boo
 
 #JMP($00003A90)
 //おちあいさん
-Ochiai-san
+Ochiai
 <$00>
 
 #JMP($00003A84)
@@ -418,11 +405,96 @@ Yuuji
 Face
 <$00>
 
-#JMP($00093A54)
-//対決
-Duel
+#JMP($00093A84)
+//招待
+Invite
 <$00>
 
-//#JMP($00093A5C)
+#JMP($00093A7C)
+//緋の炎
+Scarlet
+<$00>
+
+#JMP($00093A74)
+//霊の力
+Energy
+<$00>
+
+#JMP($00003AE4)
+//窓越しの世界
+Outside World
+<$00>
+
+#JMP($00093A6C)
+//聖餐
+Immerse
+<$00>
+
+#JMP($00003AD4)
+//かすかな痛み
+Faint Pain
+<$00>
+
+#JMP($00093A64)
+//真実
+Truth
+<$00>
+
+#JMP($00093A5C)
 //くびき
-//<$00>
+Duress
+<$00>
+
+#JMP($00093A54)
+//対決
+Battle
+<$00>
+
+#JMP($00003AC8)
+//館の外へ
+Spirit Door
+<$00>
+
+#JMP($00093A8C)
+//モデル
+Model
+<$00>
+
+#JMP($00003B34)
+//デザイン画
+Concept Art
+<$00>
+
+#JMP($00003B24)
+//広告デザイン
+Ad Design
+<$00>
+
+#JMP($00003B14)
+//それは秘密！
+A Secret!
+<$00>
+
+#JMP($00003B04)
+//さらに秘密！
+More Secrets!
+<$00>
+
+#JMP($00003AF4)
+//だから秘密！
+Scary Secret!
+<$00>
+
+#JMP($00003BCC)
+//　　　　　　⇒OPEN
+       >> Open
+<$00>
+
+#JMP($00003BE0)
+//　　　　　　⇒CLOSED
+       >> Closed
+<$00>
+
+#JMP($00003CE4)
+%2d/%2d (%s)
+<$00>

@@ -33,7 +33,7 @@ myself in this mansion.
 // Ptr: 00000084
 #WRITE(PTR, $00000448)
 //‚»‚µ‚ÄA‚»‚ê‚ª”ß‚µ‚­‚ÄA
-Then, in my sadness I locked
+Then, in my sadness, I locked
 <$00>
 
 // Ptr: 000000A0

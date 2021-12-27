@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000003AC)
 //《おちあいさん》
-(Ochiai-san)
+(Ochiai)
 <$00>
 
 // Ptr: 0000002C
@@ -39,37 +39,37 @@ you run into her alone at
 // Ptr: 00000098
 #WRITE(PTR, $00000398)
 //特にわるいことはしないのですが
-persay, but rumor has it if
+per se, but rumor has it if
 <$00>
 
 // Ptr: 000000B8
 #WRITE(PTR, $00000394)
 //彼女は、いつもそこにいるだけで
-She hasn't dont anything bad
+She hasn't done anything bad
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $00000390)
 //いろんなウワサがあります。
-glides. There are a lot of     rumors like this.
+legs don't move and she just<$0A>gently glides.
 <$00>
 
 // Ptr: 000000F4
 #WRITE(PTR, $0000038C)
 //す～っと動くんだよ、とか、
-move and she just gently
+her, saying things like her
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $00000388)
 //足を動かさないで、そのまま平行に
-almost like her legs don't
+students spread rumors about
 <$00>
 
 // Ptr: 00000134
 #WRITE(PTR, $00000384)
 //妙にぎこちないけど速いとか、
-is somehow still fast. It's
+is somehow still fast. The
 <$00>
 
 // Ptr: 00000154
@@ -111,13 +111,13 @@ and the winter one at that.
 // Ptr: 0000020C
 #WRITE(PTR, $00000368)
 //だから、この子が着ている服は
-who still wears the old one,
+still wears the old one,
 <$00>
 
 // Ptr: 0000022C
 #WRITE(PTR, $00000364)
 //制服が変わったんです。
-3 years ago. But, there's a
+3 years ago. But one girl
 <$00>
 
 // Ptr: 00000244

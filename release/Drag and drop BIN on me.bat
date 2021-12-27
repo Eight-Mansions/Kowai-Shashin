@@ -1,5 +1,5 @@
 @echo off
-set filename=Kowai-Shashin-Alpha
+set filename=Kowai-Shashin-English-Beta
 set file_type=BIN
 set patch_file=kowai-shashin-patch.xdelta3
 

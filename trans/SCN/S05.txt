@@ -44,13 +44,13 @@ I got a letter from him a
 // Ptr: 000000A0
 #WRITE(PTR, $000001E4)
 //廃車にしてもらいました。
-who destroyed it for me.
+at a junkyard.
 <$00>
 
 // Ptr: 000000BC
 #WRITE(PTR, $000001E0)
 //知り合いの解体業者に売り払って
-sold it to a car junker I know
+sold it to a friend who works
 <$00>
 
 // Ptr: 000000DC
@@ -68,6 +68,6 @@ drive that car again, so I
 // Ptr: 00000118
 #WRITE(PTR, $000001D0)
 //まだ、手紙には続きがある・・・。
-There was still more in the   letter...
+There was still more in the<$0A>letter...
 <$00>
 

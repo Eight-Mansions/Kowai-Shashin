@@ -51,13 +51,13 @@ picture, I heed his advice.
 // Ptr: 000000EC
 #WRITE(PTR, $00000328)
 //‚±‚ÌÊ^‚ğB‚Á‚Ä‚¢‚ç‚¢
-But now that I've take this
+But now that I've taken this
 <$00>
 
 // Ptr: 00000104
 #WRITE(PTR, $00000324)
 //‚¢‚È‚©‚Á‚½‚ñ‚Å‚·‚¯‚ÇB
-to heard.
+to heart.
 <$00>
 
 // Ptr: 0000011C
@@ -99,7 +99,7 @@ to talk to us.
 // Ptr: 000001D0
 #WRITE(PTR, $00000308)
 //ˆù‚İ•¨‚ğ”ƒ‚Á‚Ä‚é‚ÆA‚Æ‚«‚Ç‚«
-we use would come out
+machine we use would come out
 <$00>
 
 // Ptr: 000001F0

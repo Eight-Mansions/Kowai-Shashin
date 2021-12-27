@@ -27,7 +27,7 @@ voice saying
 // Ptr: 0000005C
 #WRITE(PTR, $000002C0)
 //確かに聞こえました。
-swear I head a kid's playful
+swear I heard a kid's playful
 <$00>
 
 // Ptr: 00000074
@@ -39,13 +39,13 @@ When I took this photo, I
 // Ptr: 00000094
 #WRITE(PTR, $000002B8)
 //車体に子供の手形がついてたり。
-print would appear in a locked car at night.
+handprint would appear in a<$0A>locked car at night.
 <$00>
 
 // Ptr: 000000B4
 #WRITE(PTR, $000002B4)
 //真夜中に停めたのに、数時間後、
-Other times, a child's hand-
+Other times, a child's
 <$00>
 
 // Ptr: 000000D4

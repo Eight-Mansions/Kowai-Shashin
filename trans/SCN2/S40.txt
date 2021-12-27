@@ -51,7 +51,7 @@ But, all our tension washed
 // Ptr: 000000C0
 #WRITE(PTR, $00000644)
 //なんか、恐いんで、全員で・・・
-We were a bit nervous yelling at someone...
+We were a bit nervous yelling<$0A>at someone...
 <$00>
 
 // Ptr: 000000E0
@@ -69,49 +69,49 @@ Finally we snapped and
 // Ptr: 00000120
 #WRITE(PTR, $00000634)
 //するってどういうこと？
-who were trying to sing!?
+bothering those who were<$0A>trying to enjoy themselves!?
 <$00>
 
 // Ptr: 00000138
 #WRITE(PTR, $00000630)
 //しかも、歌ってるひとのジャマ
-on top of that bothering those
+singing, and on top of that,
 <$00>
 
 // Ptr: 00000158
 #WRITE(PTR, $0000062C)
 //カラオケボックスで、歌わないで
-They weren't even singing, and
+How rude!! They weren't even
 <$00>
 
 // Ptr: 00000178
 #WRITE(PTR, $00000628)
 //なんて自己中な！
-into the walls! How rude!!
+themselves into the walls!
 <$00>
 
 // Ptr: 0000018C
 #WRITE(PTR, $00000624)
 //暴れて、壁に体当たりしてきたり！
-Soon they were throwing themselves
+Soon they were throwing
 <$00>
 
 // Ptr: 000001B0
 #WRITE(PTR, $00000620)
 //笑ったり、しまいにはどすんばたん
-and banging that kept increasing.
+and banging kept increasing.
 <$00>
 
 // Ptr: 000001D4
 #WRITE(PTR, $0000061C)
 //しかも、なにか大声でしゃべったり
-chatting and laughing, then pounding
+They were loudly chatting<$0A>and laughing, and the pounding
 <$00>
 
 // Ptr: 000001F8
 #WRITE(PTR, $00000618)
 //きたんです。
-instead! They were louding
+instead!
 <$00>
 
 // Ptr: 00000208
@@ -153,31 +153,31 @@ for Pete's sake!
 // Ptr: 000002B0
 #WRITE(PTR, $000005FC)
 //そんなこといったって、
-quiet down! We were at karaoke
+We were at karaoke
 <$00>
 
 // Ptr: 000002C8
 #WRITE(PTR, $000005F8)
 //“うるさい！”ってかんじで。
-It was like they wanted us to
+It was like they wanted us to<$0A>quiet down!
 <$00>
 
 // Ptr: 000002E8
 #WRITE(PTR, $000005F4)
 //どん、どん、って叩かれたんです。
-next to us started pounding on the walls.
+next to us started pounding<$0A>on the walls.
 <$00>
 
 // Ptr: 0000030C
 #WRITE(PTR, $000005F0)
 //いきなり、となりの部屋から壁を
-At one point, someone from the room
+someone from the room
 <$00>
 
 // Ptr: 0000032C
 #WRITE(PTR, $000005EC)
 //でした。
-out.
+out. At one point,
 <$00>
 
 // Ptr: 00000338

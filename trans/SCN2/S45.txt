@@ -45,19 +45,19 @@ for a long time.
 // Ptr: 000000CC
 #WRITE(PTR, $00000348)
 //それはずっと昔から
-I imagine they lurked her
+I imagine they lurked here
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000344)
 //とおりすぎる影を見る。
-and footsteps. Too many shadows caught my eye.
+laughs, and footsteps. Too<$0A>many shadows caught my eye.
 <$00>
 
 // Ptr: 000000F8
 #WRITE(PTR, $00000340)
 //かすれたささやき声、笑う声と　　足音を聞く。
-alone. I could hear whispers, laughs,
+alone. I could hear whispers,
 <$00>
 
 // Ptr: 00000128
@@ -87,12 +87,12 @@ began to happen.
 // Ptr: 000001A8
 #WRITE(PTR, $0000032C)
 //異変が起こりはじめたのは、
-time that strange things
+that strange things
 <$00>
 
 // Ptr: 000001C4
 #WRITE(PTR, $00000328)
 //わたしの身の回りに
-It was around that
+It was around that time
 <$00>
 

@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000002A4)
 //って言ってました。』
-'Ahh, Ochiai-san is still      there, huh?' she said."
+'Ahh, Ochiai is still there, huh?'<$0A>she said."
 <$00>
 
 // Ptr: 00000030
@@ -87,6 +87,6 @@ student here. Right before
 // Ptr: 00000198
 #WRITE(PTR, $0000026C)
 //まだ、手紙には続きがある・・・
-There was still more to the    letter...
+There's more in the letter:
 <$00>
 

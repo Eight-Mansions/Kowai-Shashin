@@ -45,91 +45,91 @@ quest for godhood, our
 // Ptr: 000000C0
 #WRITE(PTR, $00000598)
 //一族の栄光を夢見たあさましい
-As punishment for that shameful
+As punishment for that shameful 
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $00000594)
 //その邪悪な力を高めていった。
-while enhancing its abilities.
+more and more people while<$0A>enhancing its abilities.
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $00000590)
 //強きものを次々と食らい
-consuming more and more people
+followed its hunger, consuming
 <$00>
 
 // Ptr: 00000118
 #WRITE(PTR, $0000058C)
 //ただただ、欲望のままに
-goal and just followed its hunger,
+original goal and just
 <$00>
 
 // Ptr: 00000130
 #WRITE(PTR, $00000588)
 //悪霊は、本来の目的など失い
-That demon forgot its original
+That demon forgot its
 <$00>
 
 // Ptr: 0000014C
 #WRITE(PTR, $00000584)
 //一個の恐ろしい悪霊だった。
-demon.
+but a terrifying demon.
 <$00>
 
 // Ptr: 00000168
 #WRITE(PTR, $00000580)
 //夢見たような至高の賢者ではなく
-not a god, but a terrifying
+born from that was not a god,
 <$00>
 
 // Ptr: 00000188
 #WRITE(PTR, $0000057C)
 //しかし、その途上で誕生したのは
-But what was born from that was
+eating one another. But what was
 <$00>
 
 // Ptr: 000001A8
 #WRITE(PTR, $00000578)
 //食いあった。
-murdering and eating one another.
+indiscriminately murdering and
 <$00>
 
 // Ptr: 000001B8
 #WRITE(PTR, $00000574)
 //一族はたがいに殺しあい
-The family became indiscriminately
+The family began
 <$00>
 
 // Ptr: 000001D0
 #WRITE(PTR, $00000570)
 //神のごとき賢者になれるはずだと。
-a god.
+would become like a god.
 <$00>
 
 // Ptr: 000001F4
 #WRITE(PTR, $0000056C)
 //最後に生き残るものは
-the family would become like
+survivor of the family
 <$00>
 
 // Ptr: 0000020C
 #WRITE(PTR, $00000568)
 //そして、同族同士で食いあったなら
-Then, the final survivor of
+strength. Then, the final
 <$00>
 
 // Ptr: 00000230
 #WRITE(PTR, $00000564)
 //より大いなる力を得られるだろう
-they'd gain immense strength.
+spirits, they'd gain immense
 <$00>
 
 // Ptr: 00000250
 #WRITE(PTR, $00000560)
 //同族の命を食らえば
-someone who consumed other spirits,
+someone who consumed other
 <$00>
 
 // Ptr: 00000264
@@ -159,13 +159,13 @@ One family member craving
 // Ptr: 000002E0
 #WRITE(PTR, $0000054C)
 //数々の偉業をなしとげてきた。
-and power to achive great things.
+knowledge and power to<$0A>achieve great things.
 <$00>
 
 // Ptr: 00000300
 #WRITE(PTR, $00000548)
 //その知識や力を自分のものにして
-of people to gain their knowledge
+of people to gain their
 <$00>
 
 // Ptr: 00000320

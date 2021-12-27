@@ -75,7 +75,7 @@ me in a paranoid voice.
 // Ptr: 00000150
 #WRITE(PTR, $000002F0)
 //いかにもおびえた口調で彼は
-without a sound," he'd tell
+without a sound,' he'd tell
 <$00>
 
 // Ptr: 0000016C
@@ -87,24 +87,24 @@ on melting snow could fall
 // Ptr: 0000018C
 #WRITE(PTR, $000002E8)
 //春先、雪渓の上に生じる落石は
-"In the spring, large rocks sitting
+possibilities of rockslides.<$0A>'In the spring, large rocks sitting
 <$00>
 
 // Ptr: 000001AC
 #WRITE(PTR, $000002E4)
 //恐さについて語っていました。
-the scary possibilities of rockslides.
+worry and bring up the scary
 <$00>
 
 // Ptr: 000001CC
 #WRITE(PTR, $000002E0)
 //いたその友人は、以前から落石の
-with would often worry and bring up
+rockclimb with would often
 <$00>
 
 // Ptr: 000001EC
 #WRITE(PTR, $000002DC)
 //『私と一緒に山登りを趣味にして
-"A friend who I liked to rockclimb
+"A friend who I liked to
 <$00>
 

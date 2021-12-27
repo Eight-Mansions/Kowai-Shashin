@@ -27,7 +27,7 @@ my nephew rest in
 // Ptr: 00000060
 #WRITE(PTR, $000004F8)
 //緋織さま、どうかあなたの手で、
-Hiori please, will you help
+Hiori, please. Will you help
 <$00>
 
 // Ptr: 00000080
@@ -141,19 +141,18 @@ I'm here today to deliver
 // Ptr: 000002AC
 #WRITE(PTR, $000004AC)
 //叔母です。
-neighborhood.
 <$00>
 
 // Ptr: 000002B8
 #WRITE(PTR, $000004A8)
 //住んでおりました、加藤優二の
-used to live in your
+live in your neighborhood.
 <$00>
 
 // Ptr: 000002D8
 #WRITE(PTR, $000004A4)
 //わたくしは、以前あなたの近所に
-I'm his aunt and we
+I'm his aunt and we used to
 <$00>
 
 // Ptr: 000002F8
@@ -165,18 +164,18 @@ do you remember Katou Yuuji?
 // Ptr: 00000314
 #WRITE(PTR, $0000049C)
 //『緋織さん
-"Hiori-san,
+"Hiori,
 <$00>
 
 // Ptr: 00000320
 #WRITE(PTR, $00000498)
 //突然わたしにもたらされた・・・
-unexpected letter that day...
+letter that day...
 <$00>
 
 // Ptr: 00000340
 #WRITE(PTR, $00000494)
 //その知らせは
-I suddenly received an
+I received an unexpected
 <$00>
 

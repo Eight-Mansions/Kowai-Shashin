@@ -1,1 +1,1 @@
-python tools\KSScriptFormatter.py trans format
+::python tools\KSScriptFormatter.py trans format

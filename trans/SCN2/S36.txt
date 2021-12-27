@@ -33,7 +33,7 @@ No, it couldn't be...
 // Ptr: 00000070
 #WRITE(PTR, $00000310)
 //わたしがあの男の生霊を除霊した　のと、ちょうど同じ日だった。
-at just the same time as my exorcism.
+at just the same time as<$0A>my exorcism.
 <$00>
 
 // Ptr: 000000B0

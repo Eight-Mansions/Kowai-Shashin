@@ -9,7 +9,7 @@
 // Ptr: 00000018
 #WRITE(PTR, $000001FC)
 //—V‚Ñ‚ğA‘±‚¯‚Ä‚¢‚½‚æ‚¤‚Å‚·B
-dimension they were dragged    into.
+dimension they were dragged into.
 <$00>
 
 // Ptr: 00000038
@@ -63,6 +63,6 @@ It seems like the child
 // Ptr: 00000130
 #WRITE(PTR, $000001D4)
 //y”êD‚©‚ç‚Ìœ—ìŒ‹‰Ê•ñz
-(Hiori's Exorcism Report)
+Hiori's Exorcism Report:
 <$00>
 

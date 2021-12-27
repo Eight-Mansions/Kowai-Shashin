@@ -27,7 +27,7 @@ This room may have been
 // Ptr: 00000064
 #WRITE(PTR, $00000264)
 //ƒNƒr‚¾‚¯‚Ìp‚Å‚µ‚½B
-with were their necks.
+with were their heads.
 <$00>
 
 // Ptr: 0000007C
@@ -87,6 +87,6 @@ It seems they've lived here
 // Ptr: 0000017C
 #WRITE(PTR, $00000238)
 //y”êD‚©‚ç‚Ìœ—ìŒ‹‰Ê•ñz
-"Hiori's Exorcism Report"
+Hiori's Exorcism Report:
 <$00>
 

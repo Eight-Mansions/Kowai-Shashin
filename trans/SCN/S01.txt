@@ -39,7 +39,7 @@ The purification process is
 // Ptr: 000000B4
 #WRITE(PTR, $000007A8)
 //一．霊波動鏡の反応がなくなったら
-- When the Link stops
+- When the Ring stops
 <$00>
 
 // Ptr: 000000D8
@@ -69,13 +69,13 @@ The purification process is
 // Ptr: 00000140
 #WRITE(PTR, $00000794)
 //　　霊の力を多くうばえる。
-  the strongest effect.
+  Finish all 9 for the strongest<$0A>  effect.
 <$00>
 
 // Ptr: 0000015C
 #WRITE(PTR, $00000790)
 //　　九つの印を完成させれば、
-  There are 9 possible seals.    Complete all 9 for
+  There are 9 possible seals.
 <$00>
 
 // Ptr: 0000017C
@@ -130,7 +130,7 @@ The purification process is
 #JMP($00000274)
 #WRITE(PTR, $0000076C)
 //　　（上
-Up 
+  Up 
 <$01><$02>
 //　右
  Right 
@@ -160,13 +160,13 @@ Up
 // Ptr: 000002C4
 #WRITE(PTR, $00000760)
 //　　霊は正体をあらわすだろう。
+  lurking spirit.
 <$00>
-//  lurking spirit.
 
 // Ptr: 000002E4
 #WRITE(PTR, $0000075C)
 //　　おまえが居場所を見つけたら、
-  red when it's close to the     lurking spirit.
+  red when it's close to the
 <$00>
 
 // Ptr: 00000308
@@ -178,7 +178,7 @@ Up
 // Ptr: 0000032C
 #WRITE(PTR, $00000754)
 //一．霊査中、霊がひそんでいる場所
-- In Spirit Mode, the Link
+- In Spirit Mode, the Ring
 <$00>
 
 // Ptr: 00000350
@@ -196,7 +196,7 @@ Up
 // Ptr: 00000384
 #WRITE(PTR, $00000748)
 //　　霊査のあいだおまえは生命力を
-  Spirit Mode consumes your
+- Spirit Mode consumes your
 <$00>
 
 // Ptr: 000003A8
@@ -218,13 +218,13 @@ Up
 // Ptr: 000003E0
 #WRITE(PTR, $0000073C)
 //一．異様な個所を見つけたら精神を
--  When you find it, start
+- When you find it, start
 <$00>
 
 // Ptr: 00000404
 #WRITE(PTR, $00000738)
 //　　そうした個所を、まず探せ。
-  Link and find that first.
+  Ring and find that first.
 <$00>
 
 // Ptr: 00000424

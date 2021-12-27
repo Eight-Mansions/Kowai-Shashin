@@ -33,7 +33,7 @@ If a malignant spirit notices
 // Ptr: 00000080
 #WRITE(PTR, $00000200)
 //‚¯‚Á‚µ‚Ä“®—h‚µ‚È‚¢‚æ‚¤‚ÉB
-much not lose your composure.
+must not lose your composure.
 <$00>
 
 // Ptr: 0000009C
@@ -69,6 +69,6 @@ The distance between our world
 // Ptr: 0000013C
 #WRITE(PTR, $000001E4)
 //y”êD‚©‚ç‚Ìœ—ìŒ‹‰Ê•ñz
-"Hiori's Exorcism Report"
+Hiori's Exorcism Report:
 <$00>
 

@@ -9,6 +9,7 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000002B8)
 //わたしの生業である。
+It's not a bad life.
 <$00>
 
 // Ptr: 00000034
@@ -44,31 +45,32 @@ I'm able to earn a steady
 // Ptr: 000000A8
 #WRITE(PTR, $000002A0)
 //そして悪意を持つ霊と闘い、　　　それを消し去ること。
-exorcise spirits with          malicious intent.
+//I use my special abilities to exorcise spirits with malicious intent.
+With my sight, I exorcise spirits<$0A>who house malicious energy.
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $0000029C)
 //霊を見ること。
-I use my special abilities to
+the spirits of the dead.
 <$00>
 
 // Ptr: 000000F0
 #WRITE(PTR, $00000298)
 //それは、
-the spirits of the dead.
+see
 <$00>
 
 // Ptr: 000000FC
 #WRITE(PTR, $00000294)
 //わたしの持っている力、
-That power lets me see 
+This power lets me
 <$00>
 
 // Ptr: 00000114
 #WRITE(PTR, $00000290)
 //ふしぎな力があった。
-I had a strange power.
+I've had a strange power.
 <$00>
 
 // Ptr: 0000012C

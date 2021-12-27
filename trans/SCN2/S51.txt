@@ -10,34 +10,34 @@
 #WRITE(PTR, $00000154)
 <$02><$FF><$80><$00>
 //緋織、祖先たちの霊を倒せ・・・
-Hiori, defeat the spirits of our ancestors.
+on you, Hiori. Defeat the<$0A>spirits of our ancestors."
 <$00>
 
 // Ptr: 0000003C
 #WRITE(PTR, $00000150)
 <$02><$FF><$80><$00>
 //だから、私はおまえに賭けよう。
-That's why I'm betting on you.
+child. That's why I'm betting
 <$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $0000014C)
 <$02><$FF><$80><$00>
 //特に強い力を持つ子供だった。
-strong powers since you were a child.
+strong powers since you were a
 <$00>
 
 // Ptr: 00000084
 #WRITE(PTR, $00000148)
 <$02><$FF><$80><$00>
 //・・・おまえは
-...I always knew you had uniquely
+"I always knew you had uniquely
 <$00>
 
 // Ptr: 00000098
 #WRITE(PTR, $00000140)
 //父さんの最後の声が聞こえる。
-I could hear my father's final words.
+I could hear his final words:
 <$00>
 
 // Ptr: 000000B8

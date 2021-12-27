@@ -15,31 +15,31 @@
 // Ptr: 00000028
 #WRITE(PTR, $000003FC)
 //泥だらけの裸足、でした。』
-barefoot and caked in mud."
+caked in mud."
 <$00>
 
 // Ptr: 00000044
 #WRITE(PTR, $000003F8)
 //その足がみんな
-in the elevator. They were all
+They were all barefoot and
 <$00>
 
 // Ptr: 00000054
 #WRITE(PTR, $000003F4)
 //ぎっしり立ってる足が見えて
-glimpse of several crammed legs
+crammed legs in the elevator.
 <$00>
 
 // Ptr: 00000070
 #WRITE(PTR, $000003F0)
 //扉の間から、ちょこっとだけですが
-Through the gap, I caught
+I caught a glimpse of several
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $000003EC)
 //見てしまいました。
-recently.
+recently. Through the gap,
 <$00>
 
 // Ptr: 000000A8
@@ -51,19 +51,19 @@ I accidently saw inside
 // Ptr: 000000C0
 #WRITE(PTR, $000003E4)
 //見ぬふりをしています・・・が、
-quickly look away, but...
+open, I quickly look away, but...
 <$00>
 
 // Ptr: 000000E0
 #WRITE(PTR, $000003E0)
 //たとえ目の前で扉がひらいても、
-When the door slides open, I
+happens. When the door slides
 <$00>
 
 // Ptr: 00000100
 #WRITE(PTR, $000003DC)
 //そんなのには、絶対乗りません。
-I refuse to get on when that   happens.
+I refuse to get on when that
 <$00>
 
 // Ptr: 00000120
@@ -87,7 +87,7 @@ Late at night, the elevator
 // Ptr: 00000184
 #WRITE(PTR, $000003CC)
 //閉まりかけた扉が勝手に開いたり。
-also stop closing even with no one there.
+also stop closing even with no one<$0A>there.
 <$00>
 
 // Ptr: 000001A8
@@ -99,7 +99,7 @@ up with no warning. The doors
 // Ptr: 000001C8
 #WRITE(PTR, $000003C4)
 //気がつくと、押してないはずの
-Sometimes all the buttons light
+Sometimes, all the buttons light
 <$00>
 
 // Ptr: 000001E8

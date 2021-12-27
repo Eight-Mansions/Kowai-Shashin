@@ -9,7 +9,7 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000002B8)
 //そして、異界への扉が開いた。
-Then, the door to the other world opened.
+Then, the door to the other world<$0A>opened.
 <$00>
 
 // Ptr: 0000003C
@@ -39,19 +39,19 @@ All that drove it forward was an
 // Ptr: 000000C8
 #WRITE(PTR, $000002A0)
 //人のこころを失くしたものたち。
-power with no human heart left of its own.
+greater power with no human<$0A>heart left of its own.
 <$00>
 
 // Ptr: 000000E8
 #WRITE(PTR, $0000029C)
 //より大きな力を得ようとするあまり
-It came in search of a greater
+blood. It came in search of a
 <$00>
 
 // Ptr: 0000010C
 #WRITE(PTR, $00000298)
 //わたしの血に連なるものたち。
-The demon I was related to by blood.
+The demon I was related to by
 <$00>
 
 // Ptr: 0000012C

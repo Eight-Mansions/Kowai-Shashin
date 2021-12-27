@@ -15,13 +15,13 @@ not long ago?
 // Ptr: 00000034
 #WRITE(PTR, $00000288)
 //除霊・・・と
-with a spirit
+...speak with a spirit
 <$00>
 
 // Ptr: 00000044
 #WRITE(PTR, $00000284)
 //わたしがやっていることは
-was I able to... speak
+was I able to...
 <$00>
 
 // Ptr: 00000060
@@ -33,19 +33,19 @@ More importantly,
 // Ptr: 0000006C
 #WRITE(PTR, $0000027C)
 //子供のころから自然にやってきた　ことだったから。
-It was natural for me ever since I was a child.
+It was natural for me ever since<$0A>I was a child.
 <$00>
 
 // Ptr: 000000A0
 #WRITE(PTR, $00000278)
 //わたしは今まで考えたことが　　　なかった。
-why I do these exorcisms.
+about why I do these exorcisms.
 <$00>
 
 // Ptr: 000000CC
 #WRITE(PTR, $00000274)
 //除霊をすることの意味を
-I had never thought till now about
+I had never thought till now
 <$00>
 
 // Ptr: 000000E4
@@ -57,18 +57,18 @@ Just what was that?
 // Ptr: 000000FC
 #WRITE(PTR, $0000026C)
 //わたしは満たされ、飢えは　　　　汐のように引いて行った。
-I felt full, and the ravousing hunger subsided like the tides.
+I felt full, and the ravenous<$0A>hunger subsided like the tides.
 <$00>
 
 // Ptr: 00000138
 #WRITE(PTR, $00000268)
 //わたしにすいこまれる。
-thoughts in this world, I breathed it all in.
+left-behind thoughts in this<$0A>world, I breathed it all in.
 <$00>
 
 // Ptr: 00000150
 #WRITE(PTR, $00000264)
 //霊の力が、この世に残る思いが、
-The energy of the spirits, the left-behind
+The energy of the spirits, the
 <$00>
 

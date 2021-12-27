@@ -45,7 +45,7 @@ I frequently use this station,
 // Ptr: 000000A4
 #WRITE(PTR, $00000218)
 //Ç±ÇÍÇå©ÇƒÉ]ÉbÇ∆ÇµÇ‹ÇµÇΩÅB
-tracks. But I froze when I sawthose things looking at me...
+tracks. But I froze when I saw<$0A>those things looking at me...
 <$00>
 
 // Ptr: 000000C0

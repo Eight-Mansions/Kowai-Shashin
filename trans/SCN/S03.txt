@@ -63,6 +63,6 @@ The figure hanging from the
 // Ptr: 0000011C
 #WRITE(PTR, $000001B8)
 //y”êD‚©‚ç‚Ìœ—ìŒ‹‰Ê•ñz
-(Hiori's Exorcism Report)
+Hiori's Exorcism Report:
 <$00>
 

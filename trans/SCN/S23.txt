@@ -10,24 +10,39 @@
 #WRITE(PTR, $000001F0)
 #WRITE(PTR, $000001F4)
 #WRITE(PTR, $000001F8)
-<$02><$00>
+<$02><$00><$FF><$FF>
+//コワイコワイコワイコワイコワイ
+SCAREDSCAREDSCAREDSCAREDSCARED
+<$00>
 
 // Ptr: 0000003C
 #WRITE(PTR, $000001E8)
 #WRITE(PTR, $000001EC)
-<$02><$00>
+<$02><$00><$FF><$FF>
+//ボクガナクナルナクナルナクナル
+I'MGOINGTODIETODIETODIEDIEDIE
+<$00>
 
 // Ptr: 00000060
 #WRITE(PTR, $000001E4)
-<$02><$00>
+<$02><$00><$FF><$FF>
+//オマエガボクヲケスクルシイイヤダ
+IDON'TWANTTOBEKILLEDBYYOU
+<$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $000001E0)
-<$02><$00>
+<$02><$00><$FF><$FF>
+//オマエコワイキライダクルシイ
+YOU'RESCARYIHATEYOUITHURTS
+<$00>
 
 // Ptr: 000000AC
 #WRITE(PTR, $000001DC)
-<$02><$00>
+<$02><$00><$FF><$FF>
+//イヤダイヤダコワイコワイクルナ
+NONOI'MSCAREDI'MSCAREDSTAYBACK
+<$00>
 
 // Ptr: 000000D0
 #WRITE(PTR, $000001D8)
@@ -38,12 +53,12 @@ I focused as hard as I could.
 // Ptr: 000000EC
 #WRITE(PTR, $000001D4)
 //これでお別れなら、最後の声を　　聞きたい！
-Since this is farewell,      please listen to me!!"
+Since this is farewell, please<$0A>listen to me!!"
 <$00>
 
 // Ptr: 00000118
 #WRITE(PTR, $000001D0)
 //優二くん！
-"<name> kun!
+"Yuuji!
 <$00>
 

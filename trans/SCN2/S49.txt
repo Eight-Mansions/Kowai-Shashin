@@ -21,13 +21,13 @@ the thing in the gap
 // Ptr: 00000054
 #WRITE(PTR, $0000023C)
 //“おまえか？おまえか？”
-"Was it you? Was it you?"
+'Was it you? Was it you?'
 <$00>
 
 // Ptr: 00000070
 #WRITE(PTR, $00000238)
 //言ってました。
-head it clearly.
+heard it clearly.
 <$00>
 
 // Ptr: 00000080
@@ -45,25 +45,25 @@ But my friend who is more
 // Ptr: 000000C4
 #WRITE(PTR, $0000022C)
 //思ったんですけど。
-of the machine.
+hum of the machine.
 <$00>
 
 // Ptr: 000000D8
 #WRITE(PTR, $00000228)
 //機械のうなる音かな、とも
-thought it was just the hum
+I thought it was just the
 <$00>
 
 // Ptr: 000000F4
 #WRITE(PTR, $00000224)
 //ささやくみたいな小さな声で
-It was a small voice, so I
+night. It was a small voice, so
 <$00>
 
 // Ptr: 00000110
 #WRITE(PTR, $00000220)
 //隙間にいるやつの声を聞きました。
-between the gaps on a quiet night.
+between the gaps on a quiet
 <$00>
 
 // Ptr: 00000134

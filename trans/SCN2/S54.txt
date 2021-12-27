@@ -9,31 +9,31 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000003CC)
 //わたしは、外の世界へ一歩を　　　踏み出した。
-I took my first step into that world.
+that world.
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $000003C8)
 //支えている。
-strength and knowledge support me.
+strength and knowledge support<$0A>me. I took my first step into
 <$00>
 
 // Ptr: 0000005C
 #WRITE(PTR, $000003C4)
 //父と祖先たちの力と知恵がわたしを
-My father and my ancestor's
+My father and my ancestors'
 <$00>
 
 // Ptr: 00000080
 #WRITE(PTR, $000003C0)
 //ひとりではない。
-alone, but not truly alone.
+but not truly alone.
 <$00>
 
 // Ptr: 00000094
 #WRITE(PTR, $000003BC)
 //大丈夫、わたしはひとりであって
-It's not so bad. I'll be
+It's not so bad. I'll be alone,
 <$00>
 
 // Ptr: 000000B4
@@ -63,7 +63,7 @@ hungry person committing
 // Ptr: 00000120
 #WRITE(PTR, $000003A8)
 //力を欲した祖先と
-possibility of another power
+possibility of another power-
 <$00>
 
 // Ptr: 00000134
@@ -75,25 +75,25 @@ But, I couldn't rule out the
 // Ptr: 00000154
 #WRITE(PTR, $000003A0)
 //いまこの場に立っていた。
-person.
+"complete" person.
 <$00>
 
 // Ptr: 00000170
 #WRITE(PTR, $0000039C)
 //わたしは、完全なものとして
-I now stood as a "complete"
+completely. I now stood as a
 <$00>
 
 // Ptr: 0000018C
 #WRITE(PTR, $00000398)
 //いつも感じていた飢えは消え去り
-The feeling of hunger faded completely.
+The feeling of hunger faded
 <$00>
 
 // Ptr: 000001AC
 #WRITE(PTR, $00000394)
 //わたしに、いままで欠けていた　　なにかが、ぴったりと満たされた。
-It felt like something that was always missing fit perfectly into place.
+It felt like something that was<$0A>always missing returned to me.
 <$00>
 
 // Ptr: 000001F0
