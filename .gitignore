@@ -1,10 +1,11 @@
 cd/*.bin
+cd/*.cue
 cd/*.cat
 cd/orig/*
 cd/working/*
 
 *.xdelta3
-
+*.zip
 *.log
 
 *error.txt

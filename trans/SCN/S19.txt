@@ -39,7 +39,7 @@ Our brains are run by
 // Ptr: 000000A8
 #WRITE(PTR, $0000023C)
 //g—d‰öh‚ÆŒÄ‚Ô‚Ì‚Å‚µ‚å‚¤‚ËB
-call these lives "fairies."
+call these beings "fairies."
 <$00>
 
 // Ptr: 000000C8

@@ -33,25 +33,25 @@ When they looked down the
 // Ptr: 00000074
 #WRITE(PTR, $00000390)
 //ボールが転がってきて
-despite no one being around.
+came flying in despite no one<$0A>being around.
 <$00>
 
 // Ptr: 0000008C
 #WRITE(PTR, $0000038C)
 //誰もいないレーンから
-room, a ball came flying at him
+alley was closed when a ball
 <$00>
 
 // Ptr: 000000A4
 #WRITE(PTR, $00000388)
 //ピンセッター室の掃除をしてたら、
-when cleaning the pin setter
+cleaning while the bowling
 <$00>
 
 // Ptr: 000000C8
 #WRITE(PTR, $00000384)
 //休業日に
-I heard that on a closed day
+He was in the pin setting room
 <$00>
 
 // Ptr: 000000D4

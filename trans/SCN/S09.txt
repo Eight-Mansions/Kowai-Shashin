@@ -32,7 +32,7 @@ the house. To me, the outside
 // Ptr: 00000088
 #WRITE(PTR, $000002A0)
 //‚»‚êˆÈ—ˆA‚í‚½‚µ‚Í‚±‚Ì‰®•~‚©‚ç
-Ever since then, I hardly left
+Ever since then, I've hardly left
 <$00>
 
 // Ptr: 000000A8
@@ -56,7 +56,7 @@ my father, who had the same
 // Ptr: 000000F8
 #WRITE(PTR, $00000290)
 //•ê‚ğ‘‚­–S‚­‚µA
-My mother passed quickly, and
+My mother passed early on, and
 <$00>
 
 // Ptr: 0000010C

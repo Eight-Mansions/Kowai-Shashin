@@ -498,3 +498,8 @@ Scary Secret!
 #JMP($00003CE4)
 %2d/%2d (%s)
 <$00>
+
+#JMP($00001DCC)
+//コワイシャシン　セーブデータ
+Kowai Shashin Save Data
+<$00>

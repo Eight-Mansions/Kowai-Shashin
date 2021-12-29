@@ -2,12 +2,18 @@
 set filename=Kowai-Shashin-English-Beta
 set file_type=BIN
 set patch_file=kowai-shashin-patch.xdelta3
+set vn_patch_file=kowai-shashin-vn-patch.xdelta3
+set random_patch_file=kowai-shashin-random-patch.xdelta3
 
 pushd %~dp0
 if "%~1"=="" goto :NOISO
 
 echo Patching %file_type%...
 patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.bin
+
+patch_data\xdelta.exe -d -f -s "%~1" patch_data\%vn_patch_file% %filename%-VN-Edition.bin
+
+patch_data\xdelta.exe -d -f -s "%~1" patch_data\%random_patch_file% %filename%-Random-Edition.bin
 
 if errorlevel 1 goto :XDELTAERR
 goto :FIN
@@ -28,6 +34,17 @@ echo FILE "%filename%.bin" BINARY>%filename%.cue
 echo   TRACK 01 MODE2/2352>>%filename%.cue
 echo     INDEX 01 00:00:00>>%filename%.cue
 echo.
+
+echo FILE "%filename%-VN-Edition.bin" BINARY>%filename%-VN-Edition.cue
+echo   TRACK 01 MODE2/2352>>%filename%-VN-Edition.cue
+echo     INDEX 01 00:00:00>>%filename%-VN-Edition.cue
+echo.
+
+echo FILE "%filename%-Random-Edition.bin" BINARY>%filename%-Random-Edition.cue
+echo   TRACK 01 MODE2/2352>>%filename%-Random-Edition.cue
+echo     INDEX 01 00:00:00>>%filename%-Random-Edition.cue
+echo.
+
 echo Success!
 echo Patched %file_type% was saved to %filename%.bin and .cue next to this bat file
 goto :EXIT

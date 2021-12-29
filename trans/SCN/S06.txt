@@ -87,7 +87,7 @@ pachinko parlor.
 // Ptr: 0000018C
 #WRITE(PTR, $00000298)
 //e‚ª—V‚ñ‚Å‚¢‚éŠÔ‚ÉAq‹Ÿ‚ª‚Ğ‚Æ‚è
-the parents played at a nearby
+their parents played at a nearby
 <$00>
 
 // Ptr: 000001B0

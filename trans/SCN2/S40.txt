@@ -135,7 +135,7 @@ bit quieter.
 // Ptr: 00000254
 #WRITE(PTR, $00000608)
 //‚Ü‚ A‚µ‚Î‚ç‚­‚Í‚í‚½‚µ‚½‚¿‚à
-we ended singing a 
+we ended up singing a 
 <$00>
 
 // Ptr: 00000274
@@ -183,7 +183,7 @@ out. At one point,
 // Ptr: 00000338
 #WRITE(PTR, $000005E8)
 //‚©‚È‚è‚à‚è‚ ‚ª‚Á‚Ä‚«‚½‚±‚ë
-and sung our heart's
+and sung our hearts
 <$00>
 
 // Ptr: 00000354

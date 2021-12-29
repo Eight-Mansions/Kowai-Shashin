@@ -81,7 +81,7 @@ This might sound like utter
 // Ptr: 00000188
 #WRITE(PTR, $00000320)
 //Ç‘ÇøÇ†ÇΩÇËÇ‹Ç∑ÅB
-are beyond a person's power.
+can't be explained by logic.
 <$00>
 
 // Ptr: 0000019C

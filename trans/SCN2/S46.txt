@@ -87,7 +87,7 @@ on melting snow could fall
 // Ptr: 0000018C
 #WRITE(PTR, $000002E8)
 //tæAáŒk‚Ìã‚É¶‚¶‚é—Î‚Í
-possibilities of rockslides.<$0A>'In the spring, large rocks sitting
+possibility of rockslides.<$0A>'In the spring, large rocks sitting
 <$00>
 
 // Ptr: 000001AC

@@ -33,7 +33,7 @@ in the dead of night when no
 // Ptr: 00000088
 #WRITE(PTR, $00000394)
 //と確信しています。なぜなら、
-I hear that squaking noise
+I hear that squawking noise
 <$00>
 
 // Ptr: 000000A8

@@ -5,6 +5,8 @@
 ::call 0_format.bat
 call 1_insert.bat
 call 2_build.bat
+call 2a_build_vn.bat
+call 2b_build_random.bat
 ::popd
 
 echo "Build complete!"

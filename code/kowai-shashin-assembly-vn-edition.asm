@@ -2,6 +2,8 @@
 .open "exe\SLPS_034.54",0x8000F800
 
 text_spacing: equ 0x01
+freeze_input: equ 0x00010001
+freeze_button_value: equ 0x00020002
 
 ; Don't wipe out extra routines!
 .org 0x8003b6a0
@@ -24,6 +26,45 @@ text_spacing: equ 0x01
 .org 0x8001be94
     addiu v0, s4, 0xFFFA
 
+; Don't lower health
+;8002637c : SUBU    00001be4 (v1), 00001be4 (v1), 00000000 (a0),
+;80027418 : SUBU    00001dd8 (v1), 00001dd8 (v1), 000001f4 (a1),
+;80026460 : ADDIU   000020d0 (v0), 000020d0 (v0), fce0 (64736),
+.org 0x80027418
+    nop
+.org 0x8002637C
+    nop
+.org 0x80026460
+    nop
+
+; Change monster attack direction
+;80027590 : SH      00000001 (a2), 006a (800ffa30 (a0)) [800ffa9a]
+.org 0x80027590
+    j freeze_direction
+
+; Hard set only 1 button
+;80028548 : LW      00000000 (a1), 0000 (80011c44 (v1)) [80011c44]
+;80028558 : SW      00040001 (a1), 0000 (800ffab4 (a0)) [800ffab4]
+.org 0x80028548 ; Round 1
+    jal freeze_inputs
+
+.org 0x80028600 ; Round 2
+    jal freeze_inputs
+
+.org 0x800286b8 ; Round 2
+    jal freeze_inputs
+
+; Exorcism is always X
+;80028550 : LW      8002a4f0 (a3), 0008 (80011c44 (v1)) [80011c4c]
+.org 0x80028550 ; Round 1
+    jal freeze_button
+
+.org 0x80028608 ; Round 2
+    jal freeze_button
+
+.org 0x800286C0 ; Round 3
+    jal freeze_button
+
 .org 0x8001bdec
     jal calculate_width
 
@@ -39,6 +80,24 @@ calculate_width:
     addiu t1, t1, text_spacing
     j 0x8001bdf4
     addu s4, s4, t1 ; Add the width to the current width
+
+
+freeze_inputs:
+    la a1, freeze_input
+    jr ra
+    addiu a1, a1, 0x0001
+
+freeze_button:
+    la a3, freeze_button_value
+    jr ra
+    nop
+
+freeze_direction:
+    addiu a2, r0, 0x2
+    sh a2, 0x6a(a0)
+    j 0x80027598
+    nop
+
 
 letter_widths:
     .db 0x04 ; space, unused

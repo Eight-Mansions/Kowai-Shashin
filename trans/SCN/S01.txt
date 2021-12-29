@@ -57,7 +57,7 @@ The purification process is
 // Ptr: 00000110
 #WRITE(PTR, $0000079C)
 //@@Ÿ‚¿‚¾B
-  it is your victory. Their 
+  victory is yours. Their 
 <$00>
 
 // Ptr: 00000120
