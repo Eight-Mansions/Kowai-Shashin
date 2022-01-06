@@ -501,5 +501,5 @@ Scary Secret!
 
 #JMP($00001DCC)
 //コワイシャシン　セーブデータ
-Kowai Shashin Save Data
+Kowai Shashin
 <$00>

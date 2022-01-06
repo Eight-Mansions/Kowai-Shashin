@@ -9,7 +9,7 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000001EC)
 //îYÇ‹Ç≥ÇÍÇƒÇ¢ÇÈÇ∆Ç¢Ç§ÅB
-phenomenons lately.
+phenomena lately.
 <$00>
 
 // Ptr: 00000034

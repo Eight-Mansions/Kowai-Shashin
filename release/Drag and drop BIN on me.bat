@@ -1,5 +1,5 @@
 @echo off
-set filename=Kowai-Shashin-English-Beta
+set filename=Kowai-Shashin-English-v1.0
 set file_type=BIN
 set patch_file=kowai-shashin-patch.xdelta3
 set vn_patch_file=kowai-shashin-vn-patch.xdelta3
@@ -21,7 +21,7 @@ goto :FIN
 :NOISO
 echo To patch %file_type% don't run this bat file.
 echo Simply drag and drop %file_type% on it and the patch process will start.
-:EXIT
+goto :EXIT
 
 :XDELTAERR
 echo.
@@ -46,7 +46,13 @@ echo     INDEX 01 00:00:00>>%filename%-Random-Edition.cue
 echo.
 
 echo Success!
-echo Patched %file_type% was saved to %filename%.bin and .cue next to this bat file
+echo ---
+echo The following %file_type% files were created next to the bat file:
+echo * %filename%(.bin/.cue)
+echo * %filename%-VN-Edition(.bin/.cue)
+echo * %filename%-Random-Edition(.bin/.cue)
+echo ---
+echo Load up the .cue file for the version you wish to play and enjoy!
 goto :EXIT
 
 :EXIT

@@ -71,7 +71,7 @@ BlameTheRobot - Image editing
 ## Special Thanks ##
 Hilltop - Image extracting assistance
 Megaflan - Font hacking assistance
-blueskyrunner, TurnipTheBeet, Kanji, Cargodin - Playtesting
+blueskyrunner, TurnipTheBeet, Kanji, Cargodin, lackoflove - Playtesting
 
 
 ## Contact ##
