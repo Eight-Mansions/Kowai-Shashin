@@ -1,5 +1,5 @@
 # Kowai-Shashin
-To build from start to finsh, run `build-kowai-shashin.bat`. Then your bin/cue will be in the cd folder. Otherwise, you can run `0_format.bat`, `1_insert.bat`, or `2_build.bat` manually.
+To build from start to finish, run `build-kowai-shashin.bat`. Then your bin/cue will be in the cd folder. Otherwise, you can run `1_insert.bat` or `2_build.bat` manually. Running `2a_build_vn.bat` or `2b_build_random.bat` will create the corresponding hack patch, though `1_insert.bat` should be run first at least once.
 
 To create a patch release, run `create_patch.bat` and an xdelta patch will be created under `release\patch_data`.
 
