@@ -129,7 +129,7 @@ decided to give up and
 // Ptr: 00000274
 #WRITE(PTR, $00000710)
 //d•û‚ª‚È‚¢‚Ì‚Å‚tƒ^[ƒ“‚µ‚Ä–ß‚Á‚Ä
-not get passed that bridge. We
+not get past that bridge. We
 <$00>
 
 // Ptr: 00000298

@@ -45,7 +45,7 @@ happened, but the bikes were
 // Ptr: 000000C4
 #WRITE(PTR, $000004AC)
 //‚»‚ñ‚È‚Æ‚«A‚»‚±‚ğ‚Ì‚¼‚­‚Æ
-I peaked over once when it just
+I peeked over once when it just
 <$00>
 
 // Ptr: 000000E0

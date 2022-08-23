@@ -1,5 +1,5 @@
 @echo off
-set filename=Kowai-Shashin-English-v1.0
+set filename=Kowai-Shashin-English-v1.1
 set file_type=BIN
 set patch_file=kowai-shashin-patch.xdelta3
 set vn_patch_file=kowai-shashin-vn-patch.xdelta3
@@ -7,6 +7,9 @@ set random_patch_file=kowai-shashin-random-patch.xdelta3
 
 pushd %~dp0
 if "%~1"=="" goto :NOISO
+echo Kowai Shashin English v1.1 Patcher
+echo ##################################
+echo:
 
 echo Patching %file_type%...
 patch_data\xdelta.exe -d -f -s "%~1" patch_data\%patch_file% %filename%.bin

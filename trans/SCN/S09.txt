@@ -9,30 +9,31 @@
 // Ptr: 0000001C
 #WRITE(PTR, $000002B0)
 //恐ろしい・・・
+world of spirits...
 <$00>
 
 // Ptr: 0000002C
 #WRITE(PTR, $000002AC)
 //霊と対話する世界よりも未知で
-than the world of spirits...
+terrifying than the
 <$00>
 
 // Ptr: 0000004C
 #WRITE(PTR, $000002A8)
 //外の世界は、わたしにとって、
-world was far more terrifying
+outside world was far more
 <$00>
 
 // Ptr: 0000006C
 #WRITE(PTR, $000002A4)
 //あまり外に出たことがない。
-the house. To me, the outside
+left the house. To me, the
 <$00>
 
 // Ptr: 00000088
 #WRITE(PTR, $000002A0)
 //それ以来、わたしはこの屋敷から
-Ever since then, I've hardly left
+Ever since then, I've hardly
 <$00>
 
 // Ptr: 000000A8

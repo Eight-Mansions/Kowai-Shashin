@@ -1,5 +1,6 @@
 ###################################################################
 Kowai Shashin ~Tales in Spirit Photography~ (December 2021)
+- v1.1 (March 2022)
 ###################################################################
 
 ## Intro ##
@@ -61,6 +62,10 @@ designed to run against the original Japanese BIN file.
 - To unlock all the album entries, you must complete the game three times, with each
   pass unlocking more entires. The game gets more challenging each time, so beware...
 
+## Changelog ##
+v1.1
+- Fixed a bug where the save file name was too long for the PS1 memory card manager
+- Fixed various typos and grammatical issues
 
 ## Credits ##
 SnowyAria - Translation, game hacking
